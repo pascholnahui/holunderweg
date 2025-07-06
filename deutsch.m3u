@@ -40,10 +40,6 @@ http://gr.seetv.cc/play/812/983F158AABB587A/video.m3u8
 #EXTGRP:Deutsch
 http://gr.seetv.cc/play/919/983F158AABB587A/video.m3u8
 
-#EXTINF:-1 tvg-name="DE: rbb Berlin" tvg-id="DE: rbb Berlin" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png",rbb Berlin HD
-#EXTGRP:Deutsch
-https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
-
 #EXTINF:-1 tvg-name="DE: NDR Niedersachsen" tvg-id="DE: NDR Niedersachsen" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png",NDR Niedersachsen HD
 #EXTGRP:Deutsch
 http://gr.seetv.cc/play/839/983F158AABB587A/video.m3u8
@@ -67,26 +63,6 @@ http://gr.seetv.cc/play/802/983F158AABB587A/video.m3u8
 #EXTINF:-1 tvg-name="DE: ONE" tvg-id="DE: ONE" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png",one HD
 #EXTGRP:Deutsch
 http://gr.seetv.cc/play/690/983F158AABB587A/video.m3u8
-
-#EXTINF:-1 tvg-name="DE: MDR Sachsen" tvg-id="DE: MDR Sachsen" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png",MDR Sachsen HD
-#EXTGRP:Deutsch
-https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
-
-#EXTINF:-1 tvg-name="DE: HR" tvg-id="DE: HR" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png",hr-fernsehen
-#EXTGRP:Deutsch
-http://gr.seetv.cc/play/838/983F158AABB587A/video.m3u8
-
-#EXTINF:-1 tvg-name="DE: WDR Aachen" tvg-id="WDRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png",WDR HD
-#EXTGRP:Deutsch
-http://gr.seetv.cc/play/815/983F158AABB587A/video.m3u8
-
-#EXTINF:-1 tvg-name="DE: SWR BW" tvg-id="DE: SWR BW" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png",SWR Baden-Württemberg HD
-#EXTGRP:Deutsch
-http://gr.seetv.cc/play/696/983F158AABB587A/video.m3u8
-
-#EXTINF:-1 tvg-name="DE: BR Nord" tvg-id="DE: BR Nord" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png",BR Fernsehen Nord HD
-#EXTGRP:Deutsch
-http://gr.seetv.cc/play/5005/983F158AABB587A/video.m3u8
 
 #EXTINF:-1 tvg-name="DE: SR" tvg-id="DE: SR" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/srhd.png",SR Fernsehen HD
 #EXTGRP:Deutsch
@@ -411,11 +387,3 @@ http://gr.seetv.cc/play/950/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-name="ProSieben Sat.1 UHD" tvg-logo="https://ip-tv.dev/images/epg/852.png?v1743761237" , ProSieben Sat.1 UHD
 #EXTGRP:Deutsch
 http://gr.seetv.cc/play/852/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="DE: GEO" tvg-name="Geo Television HD" tvg-logo="https://ip-tv.dev/images/epg/1005.png?v1743759039" , Geo Television HD
-#EXTGRP:Deutsch
-http://gr.seetv.cc/play/1005/983F158AABB587A/video.m3u8
-
-#EXTINF:-1 tvg-name="DE: Tagesschau24" tvg-id="DE: Tagesschau24" group-title="Vollprogramm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Tagesschau24HD.svg/960px-Tagesschau24HD.svg.png",Tagesschau24 HD
-#EXTGRP:Deutsch
-http://gr.seetv.cc/play/694/983F158AABB587A/video.m3u8
