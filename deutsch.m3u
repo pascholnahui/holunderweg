@@ -64,14 +64,6 @@ http://gr.seetv.cc/play/802/983F158AABB587A/video.m3u8
 #EXTGRP:Deutsch
 http://gr.seetv.cc/play/690/983F158AABB587A/video.m3u8
 
-#EXTINF:-1 tvg-name="DE: WDR Aachen" tvg-id="WDRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png",WDR HD
-#EXTGRP:Griechenland
-http://gr.seetv.cc/play/815/983F158AABB587A/video.m3u8
-
-#EXTINF:-1 tvg-name="DE: HR" tvg-id="DE: HR" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png",hr-fernsehen
-#EXTGRP:Griechenland
-http://gr.seetv.cc/play/838/983F158AABB587A/video.m3u8
-
 #EXTINF:-1 tvg-name="DE: BR Nord" tvg-id="DE: BR Nord" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png",BR Fernsehen Nord HD
 #EXTGRP:Griechenland
 http://gr.seetv.cc/play/5005/983F158AABB587A/video.m3u8
