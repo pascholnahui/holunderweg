@@ -65,11 +65,11 @@ http://gr.seetv.cc/play/802/983F158AABB587A/video.m3u8
 http://gr.seetv.cc/play/690/983F158AABB587A/video.m3u8
 
 #EXTINF:-1 tvg-name="DE: BR Nord" tvg-id="DE: BR Nord" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png",BR Fernsehen Nord HD
-#EXTGRP:Griechenland
+#EXTGRP:Deutsch
 http://gr.seetv.cc/play/5005/983F158AABB587A/video.m3u8
 
 #EXTINF:-1 tvg-name="DE: SWR BW" tvg-id="DE: SWR BW" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png",SWR Baden-Württemberg HD
-#EXTGRP:Griechenland
+#EXTGRP:Deutsch
 http://gr.seetv.cc/play/696/983F158AABB587A/video.m3u8
 
 #EXTINF:-1 tvg-name="DE: SR" tvg-id="DE: SR" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/srhd.png",SR Fernsehen HD
