@@ -2,11 +2,11 @@
 
 #EXTINF:-1 tvg-id="DE: Das Erste" tvg-name="DE: Das Erste" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
 #EXTGRP:Deutsch
-http://gr.seetv.cc/play/695/983F158AABB587A/video.m3u8
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 
 #EXTINF:-1 tvg-id="DE: ZDF" tvg-name="DE: ZDF" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
 #EXTGRP:Deutsch
-http://gr.seetv.cc/play/811/983F158AABB587A/video.m3u8
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 
 #EXTINF:0 tvg-id="DE: RTL" tvg-name="RTL HD DE" tvg-logo="https://ip-tv.dev/images/ico/de/rtl-de.png"  tvg-rec="5" timeshift="5", RTL HD DE
 #EXTGRP:Deutsch
@@ -32,53 +32,73 @@ http://gr.seetv.cc/play/808/983F158AABB587A/video.m3u8
 #EXTGRP:Deutsch
 http://gr.seetv.cc/play/813/983F158AABB587A/video.m3u8
 
-#EXTINF:-1 tvg-name="DE: ARTE" tvg-id="DE: ARTE" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png",ARTE HD
-#EXTGRP:Deutsch
-http://gr.seetv.cc/play/812/983F158AABB587A/video.m3u8
-
-#EXTINF:-1 tvg-name="DE: 3sat" tvg-id="DE: 3sat" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png",3sat
-#EXTGRP:Deutsch
-http://gr.seetv.cc/play/919/983F158AABB587A/video.m3u8
-
-#EXTINF:-1 tvg-name="DE: NDR Niedersachsen" tvg-id="DE: NDR Niedersachsen" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png",NDR Niedersachsen HD
-#EXTGRP:Deutsch
-http://gr.seetv.cc/play/839/983F158AABB587A/video.m3u8
-
-#EXTINF:-1 tvg-name="DE: ZDFinfo" tvg-id="DE: ZDFinfo" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfinfohd.png",ZDFinfo HD
-#EXTGRP:Deutsch
-http://gr.seetv.cc/play/5128/983F158AABB587A/video.m3u8
-
-#EXTINF:-1 tvg-name="DE: ZDFneo" tvg-id="DE: ZDFneo" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfneohd.png",ZDFneo HD
-#EXTGRP:Deutsch
-http://gr.seetv.cc/play/5127/983F158AABB587A/video.m3u8
-
-#EXTINF:-1 tvg-name="DE: Phoenix" tvg-id="DE: Phoenix" group-title="Vollprogramm" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/5/57/Phoenix_HD_Logo_2021.png/799px-Phoenix_HD_Logo_2021.png",PHOENIX HD
-#EXTGRP:Deutsch
-http://gr.seetv.cc/play/932/983F158AABB587A/video.m3u8
-
 #EXTINF:0 tvg-id="DE: N-TV" tvg-name="n-tv HD DE" tvg-logo="https://ip-tv.dev/images/epg/802.png?v1743758182"  tvg-rec="5" timeshift="5", n-tv HD DE
 #EXTGRP:Deutsch
 http://gr.seetv.cc/play/802/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="DE: Kabel Eins Doku" tvg-name="Kabel Eins Doku HD" tvg-logo="https://ip-tv.dev/images/epg/951.png?v1743759133"  tvg-rec="5" timeshift="5", Kabel Eins Doku HD
+#EXTGRP:Deutsch
+http://gr.seetv.cc/play/951/983F158AABB587A/video.m3u8
+
+#EXTINF:-1 tvg-name="DE: ARTE" tvg-id="DE: ARTE" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png",ARTE HD
+#EXTGRP:Deutsch
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
+
+#EXTINF:-1 tvg-name="DE: 3sat" tvg-id="DE: 3sat" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png",3sat
+#EXTGRP:Deutsch
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
+
+#EXTINF:-1 tvg-name="DE: NDR Niedersachsen" tvg-id="DE: NDR Niedersachsen" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png",NDR Niedersachsen HD
+#EXTGRP:Deutsch
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+
+#EXTINF:-1 tvg-name="DE: ZDFinfo" tvg-id="DE: ZDFinfo" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfinfohd.png",ZDFinfo HD
+#EXTGRP:Deutsch
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
+
+#EXTINF:-1 tvg-name="DE: ZDFneo" tvg-id="DE: ZDFneo" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfneohd.png",ZDFneo HD
+#EXTGRP:Deutsch
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
+
+#EXTINF:-1 tvg-name="DE: Phoenix" tvg-id="DE: Phoenix" group-title="Vollprogramm" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/5/57/Phoenix_HD_Logo_2021.png/799px-Phoenix_HD_Logo_2021.png",PHOENIX HD
+#EXTGRP:Deutsch
+http://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
 
 #EXTINF:-1 tvg-name="DE: ONE" tvg-id="DE: ONE" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png",one HD
 #EXTGRP:Deutsch
 http://gr.seetv.cc/play/690/983F158AABB587A/video.m3u8
 
+#EXTINF:-1 tvg-name="DE: HR" tvg-id="DE: HR" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png",hr-fernsehen
+#EXTGRP:Deutsch
+https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/master.m3u8
+
 #EXTINF:-1 tvg-name="DE: BR Nord" tvg-id="DE: BR Nord" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png",BR Fernsehen Nord HD
 #EXTGRP:Deutsch
-http://gr.seetv.cc/play/5005/983F158AABB587A/video.m3u8
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
 
 #EXTINF:-1 tvg-name="DE: SWR BW" tvg-id="DE: SWR BW" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png",SWR Baden-Württemberg HD
 #EXTGRP:Deutsch
-http://gr.seetv.cc/play/696/983F158AABB587A/video.m3u8
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
 
 #EXTINF:-1 tvg-name="DE: SR" tvg-id="DE: SR" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/srhd.png",SR Fernsehen HD
 #EXTGRP:Deutsch
-http://gr.seetv.cc/play/692/983F158AABB587A/video.m3u8
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
 
-#EXTINF:0 tvg-id="DE: Kabel Eins Doku" tvg-name="Kabel Eins Doku HD" tvg-logo="https://ip-tv.dev/images/epg/951.png?v1743759133"  tvg-rec="5" timeshift="5", Kabel Eins Doku HD
+#EXTINF:-1 tvg-name="DE: rbb Berlin" tvg-id="DE: rbb Berlin" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png",rbb Berlin HD
 #EXTGRP:Deutsch
-http://gr.seetv.cc/play/951/983F158AABB587A/video.m3u8
+https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
+
+#EXTINF:-1 tvg-name="DE: MDR Sachsen" tvg-id="DE: MDR Sachsen" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png",MDR Sachsen HD
+#EXTGRP:Deutsch
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
+
+#EXTINF:-1 tvg-name="DE: WDR Aachen" tvg-id="WDRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png",WDR HD
+#EXTGRP:Deutsch
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
+
+#EXTINF:-1 tvg-name="DE: Tagesschau24" tvg-id="DE: Tagesschau24" group-title="Vollprogramm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Tagesschau24HD.svg/960px-Tagesschau24HD.svg.png",Tagesschau24 HD
+#EXTGRP:Deutsch
+https://tagesschau.akamaized.net/hls/live/2020117/tagesschau/tagesschau_3/master.m3u8
 
 #EXTINF:0 tvg-id="DE: Sky Replay" tvg-name="Sky Replay" tvg-logo="https://ip-tv.dev/images/epg/5136.png?v1743758530"  tvg-rec="5" timeshift="5", Sky Replay
 #EXTGRP:Deutsch
@@ -107,10 +127,6 @@ http://gr.seetv.cc/play/5125/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="DE: Sky Cinema Family" tvg-name="Sky Cinema Family HD" tvg-logo="https://ip-tv.dev/images/ico/sky-cinema-family.png"  tvg-rec="5" timeshift="5", Sky Cinema Family HD
 #EXTGRP:Deutsch
 http://gr.seetv.cc/play/5101/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="DE: Sky Cinema Action" tvg-name="Sky Cinema Action HD" tvg-logo="https://ip-tv.dev/images/ico/sky-cinema-action.png"  tvg-rec="5" timeshift="5", Sky Cinema Action HD
-#EXTGRP:Deutsch
-http://gr.seetv.cc/play/844/983F158AABB587A/video.m3u8
 
 #EXTINF:0 tvg-id="DE: Sky Cinema Classics" tvg-name="Sky Cinema Classics HD" tvg-logo="https://ip-tv.dev/images/ico/sky-cinema-classics.png"  tvg-rec="5" timeshift="5", Sky Cinema Classics HD
 #EXTGRP:Deutsch
@@ -194,7 +210,7 @@ http://gr.seetv.cc/play/817/983F158AABB587A/video.m3u8
 
 #EXTINF:-1 tvg-name="DE: ARD alpha" tvg-id="DE: ARD alpha" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png",ARD-alpha
 #EXTGRP:Deutsch
-http://gr.seetv.cc/play/691/983F158AABB587A/video.m3u8
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 
 #EXTINF:0 tvg-id="DE: SIXX" tvg-name="SIXX HD DE" tvg-logo="https://ip-tv.dev/images/epg/810.png?v1743759359"  tvg-rec="5" timeshift="5", SIXX HD DE
 #EXTGRP:Deutsch
@@ -348,10 +364,6 @@ http://gr.seetv.cc/play/857/983F158AABB587A/video.m3u8
 #EXTGRP:Deutsch
 http://gr.seetv.cc/play/723/983F158AABB587A/video.m3u8
 
-#EXTINF:-1 tvg-id="DE: Dokusat" tvg-name="Dokusat" tvg-id="Dokusat.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dokusat.png",Dokusat
-#EXTGRP:Deutsch
-https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
-
 #EXTINF:0 tvg-name="WAIDWERK" tvg-logo="https://ip-tv.dev/images/epg/741.png?v1743762325" , WAIDWERK
 #EXTGRP:Deutsch
 http://gr.seetv.cc/play/741/983F158AABB587A/video.m3u8
@@ -379,14 +391,6 @@ http://gr.seetv.cc/play/819/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-name="SERIEN + HD" tvg-logo="https://ip-tv.dev/images/epg/853.png?v1743761303" , SERIEN + HD
 #EXTGRP:Deutsch
 http://gr.seetv.cc/play/853/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-name="Just Cooking HD" tvg-logo="https://ip-tv.dev/images/epg/927.png?v1743761663" , Just Cooking HD
-#EXTGRP:Deutsch
-http://gr.seetv.cc/play/927/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-name="Just Fishing HD" tvg-logo="https://ip-tv.dev/images/epg/928.png?v1743761702" , Just Fishing HD
-#EXTGRP:Deutsch
-http://gr.seetv.cc/play/928/983F158AABB587A/video.m3u8
 
 #EXTINF:0 tvg-id="DE: RTL" tvg-name="RTL UHD" tvg-logo="https://ip-tv.dev/images/ico/de/rtl-de.png" , RTL UHD
 #EXTGRP:Deutsch
