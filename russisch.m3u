@@ -50,9 +50,6 @@ http://ca.seetv.cc/play/284/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="X5kanal-ru" tvg-name="Пятый Канал" tvg-logo="https://ip-tv.dev/epg/icon/5kanal-ru.png"  tvg-rec="5" timeshift="5", Пятый Канал
 #EXTGRP:Россия
 http://ca.seetv.cc/play/169/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xkultura" tvg-name="Россия-Культура" tvg-logo="https://ip-tv.dev/epg/icon/rossia-k.png"  tvg-rec="5" timeshift="5", Россия-Культура
-#EXTGRP:Россия
-http://ca.seetv.cc/play/59/983F158AABB587A/video.m3u8
 #EXTINF:-1 tvg-id="Xkultura" tvg-name="Россия-Культура" tvg-logo="https://ip-tv.dev/epg/icon/rossia-k.png", Россия-Культура HD
 #EXTGRP:Россия
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
@@ -92,11 +89,6 @@ http://ca.seetv.cc/play/3685/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xnastoyaschee-vremia" tvg-name="Настоящее время HD" tvg-logo="https://ip-tv.dev/images/ico/nastoiaschee-vremia.png"  tvg-rec="5" timeshift="5", Настоящее время HD
 #EXTGRP:Россия
 http://ca.seetv.cc/play/6202/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xtv1000-russkoe-kino" tvg-name="Viju TV1000 Русское кино HD" tvg-logo="https://ip-tv.dev/images/ico/viju-tv1000-russkoe-kino.png"  tvg-rec="5" timeshift="5", Viju TV1000 Русское кино HD
-#EXTGRP:Кино
-http://ca.seetv.cc/play/489/983F158AABB587A/video.m3u8
-#EXTINF:-1 tvg-id="",Смотрим
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:0 tvg-id="Xyu" tvg-name="Ю ТВ" tvg-logo="https://ip-tv.dev/epg/icon/yu.png"  tvg-rec="5" timeshift="5", Ю ТВ
 #EXTGRP:Россия
 http://ca.seetv.cc/play/298/983F158AABB587A/video.m3u8
@@ -106,9 +98,6 @@ http://ca.seetv.cc/play/127/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xmir" tvg-name="Мир" tvg-logo="https://ip-tv.dev/epg/icon/mir.png", Мир HD
 #EXTGRP:Россия
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:0 tvg-id="Xmir" tvg-name="Мир" tvg-logo="https://ip-tv.dev/epg/icon/mir.png"  tvg-rec="5" timeshift="5", Мир
-#EXTGRP:Россия
-http://ca.seetv.cc/play/118/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xzvezda" tvg-name="Звезда HD" tvg-logo="https://ip-tv.dev/epg/icon/zvezda.png"  tvg-rec="5" timeshift="5", Звезда HD
 #EXTGRP:Россия
 http://ca.seetv.cc/play/170/983F158AABB587A/video.m3u8
@@ -298,6 +287,132 @@ http://ca.seetv.cc/play/5353/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xntrk-ingushetia" tvg-name="НТРК Ингушетия" tvg-logo="https://ip-tv.dev/images/ico/ntrk-ingushetia.png" , НТРК Ингушетия
 #EXTGRP:Россия
 http://ca.seetv.cc/play/5354/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xtv1000-russkoe-kino" tvg-name="Viju TV1000 Русское кино HD" tvg-logo="https://ip-tv.dev/images/ico/viju-tv1000-russkoe-kino.png"  tvg-rec="5" timeshift="5", Viju TV1000 Русское кино HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/489/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xrukino-hd" tvg-name="РуКино HD" tvg-logo="https://ip-tv.dev/images/epg/1754.png?v1743767260"  tvg-rec="5" timeshift="5", РуКино HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/1754/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xnashe-lubimoe" tvg-name="Наше любимое HD" tvg-logo="https://ip-tv.dev/epg/icon/nashe-lubimoe.png"  tvg-rec="5" timeshift="5", Наше любимое HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/499/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xnash-kinopokaz" tvg-name="Наш Кинопоказ HD" tvg-logo="https://ip-tv.dev/epg/icon/nash-kinopokaz.png"  tvg-rec="5" timeshift="5", Наш Кинопоказ HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/4475/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xnashe-muzhskoe" tvg-name="Наше Мужское HD" tvg-logo="https://ip-tv.dev/images/ico/nashe-muzhskoe-hd.png"  tvg-rec="5" timeshift="5", Наше Мужское HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/4777/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xkion-xit" tvg-name="KION Хит" tvg-logo="https://ip-tv.dev/images/ico/kion-xit.png"  tvg-rec="5" timeshift="5", KION Хит
+#EXTGRP:Россия
+http://ca.seetv.cc/play/1654/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xstrashnoe-hd" tvg-name="Страшное HD" tvg-logo="https://ip-tv.dev/epg/icon/strashnoe-hd.png"  tvg-rec="5" timeshift="5", Страшное HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/371/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xpro-lyubov" tvg-name="Про Любовь HD" tvg-logo="https://ip-tv.dev/images/ico/pro-lyubov.png"  tvg-rec="5" timeshift="5", Про Любовь HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/4778/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xkinokomedia" tvg-name="Кинокомедия" tvg-logo="https://ip-tv.dev/epg/icon/kinokomedia.png"  tvg-rec="5" timeshift="5", Кинокомедия
+#EXTGRP:Россия
+http://ca.seetv.cc/play/3738/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xkriminalnoe-hd" tvg-name="Криминальное HD" tvg-logo="https://ip-tv.dev/images/ico/kriminalnoe-hd.png"  tvg-rec="5" timeshift="5", Криминальное HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/7308/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xvictory-hd" tvg-name="Victory HD" tvg-logo="https://ip-tv.dev/images/epg/1757.png?v1743767318"  tvg-rec="5" timeshift="5", Victory HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/1757/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xussr-premieregroup" tvg-name="USSR HD" tvg-logo="https://ip-tv.dev/images/epg/1758.png?v1743767360"  tvg-rec="5" timeshift="5", USSR HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/1758/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xntv-serial" tvg-name="НТВ Сериал" tvg-logo="https://ip-tv.dev/epg/icon/ntv-serial.png"  tvg-rec="5" timeshift="5", НТВ Сериал
+#EXTGRP:Россия
+http://ca.seetv.cc/play/784/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xntv-xit" tvg-name="НТВ Хит" tvg-logo="https://ip-tv.dev/images/ico/ntv-xit.png"  tvg-rec="5" timeshift="5", НТВ Хит
+#EXTGRP:Россия
+http://ca.seetv.cc/play/3781/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xrussky-roman" tvg-name="Русский роман" tvg-logo="https://ip-tv.dev/epg/icon/russky-roman.png"  tvg-rec="5" timeshift="5", Русский роман
+#EXTGRP:Россия
+http://ca.seetv.cc/play/172/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xrussky-illuzion" tvg-name="Русский Иллюзион" tvg-logo="https://ip-tv.dev/epg/icon/russky-illuzion.png"  tvg-rec="5" timeshift="5", Русский Иллюзион
+#EXTGRP:Россия
+http://ca.seetv.cc/play/201/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xnashe-novoe-kino" tvg-name="Наше новое кино" tvg-logo="https://ip-tv.dev/epg/icon/nashe-novoe-kino.png"  tvg-rec="5" timeshift="5", Наше новое кино
+#EXTGRP:Россия
+http://ca.seetv.cc/play/35/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xsov-kinklass" tvg-name="Советское кино" tvg-logo="https://ip-tv.dev/images/ico/sov-kinklass.png"  tvg-rec="5" timeshift="5", Советское кино
+#EXTGRP:Россия
+http://ca.seetv.cc/play/9926/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xrussky-bestseller" tvg-name="Русский бестселлер" tvg-logo="https://ip-tv.dev/epg/icon/russky-bestseller.png"  tvg-rec="5" timeshift="5", Русский бестселлер
+#EXTGRP:Россия
+http://ca.seetv.cc/play/281/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xrussky-detektiv" tvg-name="Русский детектив" tvg-logo="https://ip-tv.dev/epg/icon/rus-detektiv.png"  tvg-rec="5" timeshift="5", Русский детектив
+#EXTGRP:Россия
+http://ca.seetv.cc/play/282/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xbcu-russian" tvg-name="BCU Russian HD" tvg-logo="https://ip-tv.dev/images/ico/bcu-russian.png"  tvg-rec="5" timeshift="5", BCU Russian HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/7111/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xbcu-svaty" tvg-name="BCU СВАТЫ HD" tvg-logo="https://ip-tv.dev/images/ico/bcu-svaty.png"  tvg-rec="5" timeshift="5", BCU СВАТЫ HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/7127/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xbcu-ruserial" tvg-name="BCU Ruserial HD" tvg-logo="https://ip-tv.dev/images/ico/bcu-ruserial.png"  tvg-rec="5" timeshift="5", BCU Ruserial HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/7119/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xbcu-sssr" tvg-name="BCU СССР HD" tvg-logo="https://ip-tv.dev/images/ico/bcu-sssr-hd.png"  tvg-rec="5" timeshift="5", BCU СССР HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/7120/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xbcu-criminal" tvg-name="BCU Criminal HD" tvg-logo="https://ip-tv.dev/images/ico/bcu-criminal.png"  tvg-rec="5" timeshift="5", BCU Criminal HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/7128/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X9995" tvg-name="Kinoshka Russian HD" tvg-logo="https://ip-tv.dev/images/ico/kinoshka-russian.png"  tvg-rec="5" timeshift="5", Kinoshka Russian HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/9995/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xfresh-soviet" tvg-name="Fresh Soviet" tvg-logo="https://ip-tv.dev/images/ico/fresh/soviet.png"  tvg-rec="5" timeshift="5", Fresh Soviet
+#EXTGRP:Россия
+http://ca.seetv.cc/play/1637/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xfresh-russian" tvg-name="Fresh Russian" tvg-logo="https://ip-tv.dev/images/ico/fresh/russian.png"  tvg-rec="5" timeshift="5", Fresh Russian
+#EXTGRP:Россия
+http://ca.seetv.cc/play/1649/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X36168" tvg-name="KBC-Russian Комедия HD" tvg-logo="https://ip-tv.dev/images/ico/36168-6009d4d03d8ee.png"  tvg-rec="5" timeshift="5", KBC-Russian Комедия HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/8817/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X36506" tvg-name="KBC-Страна СССР" tvg-logo="https://ip-tv.dev/images/ico/36506-6009d7a51db00.png"  tvg-rec="5" timeshift="5", KBC-Страна СССР
+#EXTGRP:Россия
+http://ca.seetv.cc/play/8824/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xyosso-rusfilm" tvg-name="YOSSO TV Русские фильмы" tvg-logo="https://ip-tv.dev/images/ico/yosso-rusfilm.png"  tvg-rec="5" timeshift="5", YOSSO TV Русские фильмы
+#EXTGRP:Россия
+http://ca.seetv.cc/play/8776/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xyosso-sovfilm" tvg-name="YOSSO TV Советские фильмы" tvg-logo="https://ip-tv.dev/images/ico/yosso-sovfilm.png"  tvg-rec="5" timeshift="5", YOSSO TV Советские фильмы
+#EXTGRP:Россия
+http://ca.seetv.cc/play/8775/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xmagic-russian" tvg-name="Magic Russian" tvg-logo="https://ip-tv.dev/images/ico/magic-russian.png"  tvg-rec="5" timeshift="5", Magic Russian
+#EXTGRP:Россия
+http://ca.seetv.cc/play/6683/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xcineman-rukino" tvg-name="CineMan РуКино" tvg-logo="https://ip-tv.dev/images/ico/cineman-rukino.png"  tvg-rec="5" timeshift="5", CineMan РуКино
+#EXTGRP:Россия
+http://ca.seetv.cc/play/13012/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xminimax-newfilmru" tvg-name="MM NewFilm RU HD" tvg-logo="https://ip-tv.dev/images/ico/minimax-newfilmru.png"  tvg-rec="5" timeshift="5", MM NewFilm RU HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/6008/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xminimax-ussr-1941-1945" tvg-name="MM USSR 1941-1945 HD" tvg-logo="https://ip-tv.dev/images/ico/minimax-ussr-1941-1945.png"  tvg-rec="5" timeshift="5", MM USSR 1941-1945 HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/6010/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xminimax-ussr-detektiv" tvg-name="MM USSR Детектив HD" tvg-logo="https://ip-tv.dev/images/ico/minimax-ussr-detektiv.png"  tvg-rec="5" timeshift="5", MM USSR Детектив HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/6011/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xminimax-ussr-komedija" tvg-name="MM USSR Комедия HD" tvg-logo="https://ip-tv.dev/images/ico/minimax-ussr-komedija.png"  tvg-rec="5" timeshift="5", MM USSR Комедия HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/6012/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xminimax-ussr-prikluchenija" tvg-name="MM USSR Приключения HD" tvg-logo="https://ip-tv.dev/images/ico/minimax-ussr-prikluchenija.png"  tvg-rec="5" timeshift="5", MM USSR Приключения HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/6013/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xminimax-ussr-fantastika" tvg-name="MM USSR Драма HD" tvg-logo="https://ip-tv.dev/images/ico/minimax-ussr-fantastika.png"  tvg-rec="5" timeshift="5", MM USSR Драма HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/6015/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xminimax-roskino" tvg-name="MM Роскино HD" tvg-logo="https://ip-tv.dev/images/ico/minimax-roskino.png"  tvg-rec="5" timeshift="5", MM Роскино HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/6035/983F158AABB587A/video.m3u8
+
+#EXTINF:-1 tvg-id="",Смотрим
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:0 tvg-id="Xbrianskaya-gubernia" tvg-name="Брянская Губерния" tvg-logo="https://ip-tv.dev/images/ico/brianskaya-gubernia.png" , Брянская Губерния
 #EXTGRP:Россия
 http://ca.seetv.cc/play/5355/983F158AABB587A/video.m3u8
@@ -471,6 +586,12 @@ http://ca.seetv.cc/play/763/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xpiatnica" tvg-name="Пятница" tvg-logo="https://ip-tv.dev/epg/icon/pyatnica.png"  tvg-rec="5" timeshift="5", Пятница
 #EXTGRP:Россия
 http://ca.seetv.cc/play/9/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xmir" tvg-name="Мир" tvg-logo="https://ip-tv.dev/epg/icon/mir.png"  tvg-rec="5" timeshift="5", Мир
+#EXTGRP:Россия
+http://ca.seetv.cc/play/118/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xkultura" tvg-name="Россия-Культура" tvg-logo="https://ip-tv.dev/epg/icon/rossia-k.png"  tvg-rec="5" timeshift="5", Россия-Культура
+#EXTGRP:Россия
+http://ca.seetv.cc/play/59/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xzvezda" tvg-name="Звезда" tvg-logo="https://ip-tv.dev/epg/icon/zvezda.png" , Звезда
 #EXTGRP:Россия
 http://ca.seetv.cc/play/148/983F158AABB587A/video.m3u8
@@ -486,7 +607,6 @@ http://ca.seetv.cc/play/130/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xdomashny-pl2" tvg-name="Домашний +2" tvg-logo="https://ip-tv.dev/images/ico/domashny-pl2.png" , Домашний +2
 #EXTGRP:Россия
 http://ca.seetv.cc/play/128/983F158AABB587A/video.m3u8
-
 #EXTINF:0 tvg-id="Xtv1000-cee" tvg-name="Viasat Kino HD" tvg-logo="https://ip-tv.dev/images/ico/tv1000-cee.png"  tvg-rec="5" timeshift="5", Viasat Kino HD
 #EXTGRP:Кино
 http://ca.seetv.cc/play/488/983F158AABB587A/video.m3u8
@@ -520,9 +640,6 @@ http://ca.seetv.cc/play/487/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xviju-tv1000-novella" tvg-name="Viju TV1000 Новелла" tvg-logo="https://ip-tv.dev/images/ico/viju-tv1000-novella.png"  tvg-rec="5" timeshift="5", Viju TV1000 Новелла
 #EXTGRP:Кино
 http://ca.seetv.cc/play/232/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xtv1000-russkoe-kino" tvg-name="Viju TV1000 Русское кино HD" tvg-logo="https://ip-tv.dev/images/ico/viju-tv1000-russkoe-kino.png"  tvg-rec="5" timeshift="5", Viju TV1000 Русское кино HD
-#EXTGRP:Кино
-http://ca.seetv.cc/play/489/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xtv1000-russkoe-kino" tvg-name="Viju TV1000 Русское кино" tvg-logo="https://ip-tv.dev/images/ico/viju-tv1000-russkoe-kino.png"  tvg-rec="5" timeshift="5", Viju TV1000 Русское кино
 #EXTGRP:Кино
 http://ca.seetv.cc/play/81/983F158AABB587A/video.m3u8
@@ -547,39 +664,21 @@ http://ca.seetv.cc/play/370/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xnash-detektiv" tvg-name="Наше крутое HD" tvg-logo="https://ip-tv.dev/epg/icon/nase-krutoe.png"  tvg-rec="5" timeshift="5", Наше крутое HD
 #EXTGRP:Кино
 http://ca.seetv.cc/play/369/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xnashe-lubimoe" tvg-name="Наше любимое HD" tvg-logo="https://ip-tv.dev/epg/icon/nashe-lubimoe.png"  tvg-rec="5" timeshift="5", Наше любимое HD
-#EXTGRP:Кино
-http://ca.seetv.cc/play/499/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xnash-kinopokaz" tvg-name="Наш Кинопоказ HD" tvg-logo="https://ip-tv.dev/epg/icon/nash-kinopokaz.png"  tvg-rec="5" timeshift="5", Наш Кинопоказ HD
-#EXTGRP:Кино
-http://ca.seetv.cc/play/4475/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xnashe-muzhskoe" tvg-name="Наше Мужское HD" tvg-logo="https://ip-tv.dev/images/ico/nashe-muzhskoe-hd.png"  tvg-rec="5" timeshift="5", Наше Мужское HD
-#EXTGRP:Кино
-http://ca.seetv.cc/play/4777/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xnashe-lubimoe-kino-ua" tvg-name="Наше любимое кино UA" tvg-logo="https://ip-tv.dev/images/ico/nashe-lubimoe-kino-ua.png"  tvg-rec="5" timeshift="5", Наше любимое кино UA
 #EXTGRP:Кино
 http://ca.seetv.cc/play/6141/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xkhit" tvg-name="Хит HD" tvg-logo="https://ip-tv.dev/epg/icon/khit.png"  tvg-rec="5" timeshift="5", Хит HD
 #EXTGRP:Кино
 http://ca.seetv.cc/play/4479/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xkion-xit" tvg-name="KION Хит" tvg-logo="https://ip-tv.dev/images/ico/kion-xit.png"  tvg-rec="5" timeshift="5", KION Хит
-#EXTGRP:Кино
-http://ca.seetv.cc/play/1654/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xblokbaster" tvg-name="Блокбастер HD" tvg-logo="https://ip-tv.dev/epg/icon/blokbaster.png"  tvg-rec="5" timeshift="5", Блокбастер HD
 #EXTGRP:Кино
 http://ca.seetv.cc/play/4476/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xostrosiuzhetnoe-hd" tvg-name="Остросюжетное HD" tvg-logo="https://ip-tv.dev/epg/icon/ostrosiuzhetnoe-hd.png"  tvg-rec="5" timeshift="5", Остросюжетное HD
 #EXTGRP:Кино
 http://ca.seetv.cc/play/368/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xstrashnoe-hd" tvg-name="Страшное HD" tvg-logo="https://ip-tv.dev/epg/icon/strashnoe-hd.png"  tvg-rec="5" timeshift="5", Страшное HD
-#EXTGRP:Кино
-http://ca.seetv.cc/play/371/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xkinouzhas" tvg-name="Киноужас HD" tvg-logo="https://ip-tv.dev/epg/icon/kinouzhas.png"  tvg-rec="5" timeshift="5", Киноужас HD
 #EXTGRP:Кино
 http://ca.seetv.cc/play/259/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xpro-lyubov" tvg-name="Про Любовь HD" tvg-logo="https://ip-tv.dev/images/ico/pro-lyubov.png"  tvg-rec="5" timeshift="5", Про Любовь HD
-#EXTGRP:Кино
-http://ca.seetv.cc/play/4778/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xkinopremium-hd" tvg-name="Премиальное HD" tvg-logo="https://ip-tv.dev/epg/icon/premialnoe.png"  tvg-rec="5" timeshift="5", Премиальное HD
 #EXTGRP:Кино
 http://ca.seetv.cc/play/367/983F158AABB587A/video.m3u8
@@ -601,18 +700,12 @@ http://ca.seetv.cc/play/276/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xkinosvidanie" tvg-name="Киносвидание" tvg-logo="https://ip-tv.dev/epg/icon/kinosvidanie.png"  tvg-rec="5" timeshift="5", Киносвидание
 #EXTGRP:Кино
 http://ca.seetv.cc/play/11/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xkinokomedia" tvg-name="Кинокомедия" tvg-logo="https://ip-tv.dev/epg/icon/kinokomedia.png"  tvg-rec="5" timeshift="5", Кинокомедия
-#EXTGRP:Кино
-http://ca.seetv.cc/play/3738/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xshokiruyushchee-hd" tvg-name="Шокирующее" tvg-logo="https://ip-tv.dev/epg/icon/shokiruyushchee.png"  tvg-rec="5" timeshift="5", Шокирующее
 #EXTGRP:Кино
 http://ca.seetv.cc/play/137/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xkomedijnoe-hd" tvg-name="Комедийное" tvg-logo="https://ip-tv.dev/epg/icon/komedijnoe.png"  tvg-rec="5" timeshift="5", Комедийное
 #EXTGRP:Кино
 http://ca.seetv.cc/play/138/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xkriminalnoe-hd" tvg-name="Криминальное HD" tvg-logo="https://ip-tv.dev/images/ico/kriminalnoe-hd.png"  tvg-rec="5" timeshift="5", Криминальное HD
-#EXTGRP:Кино
-http://ca.seetv.cc/play/7308/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xkino-bez-granic" tvg-name="Кино без границ" tvg-logo="https://ip-tv.dev/images/ico/kino-bez-granic.png" , Кино без границ
 #EXTGRP:Кино
 http://ca.seetv.cc/play/61/983F158AABB587A/video.m3u8
@@ -631,21 +724,12 @@ http://ca.seetv.cc/play/1752/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xthriller-hd" tvg-name="Thriller HD" tvg-logo="https://ip-tv.dev/images/epg/1753.png?v1743767228"  tvg-rec="5" timeshift="5", Thriller HD
 #EXTGRP:Кино
 http://ca.seetv.cc/play/1753/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xrukino-hd" tvg-name="РуКино HD" tvg-logo="https://ip-tv.dev/images/epg/1754.png?v1743767260"  tvg-rec="5" timeshift="5", РуКино HD
-#EXTGRP:Кино
-http://ca.seetv.cc/play/1754/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xserial-hd" tvg-name="Serial HD" tvg-logo="https://ip-tv.dev/images/epg/1755.png?v1743767290"  tvg-rec="5" timeshift="5", Serial HD
 #EXTGRP:Кино
 http://ca.seetv.cc/play/1755/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xparadise-hd" tvg-name="Paradise HD" tvg-logo="https://ip-tv.dev/images/epg/1756.png?v1743767411"  tvg-rec="5" timeshift="5", Paradise HD
 #EXTGRP:Кино
 http://ca.seetv.cc/play/1756/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xvictory-hd" tvg-name="Victory HD" tvg-logo="https://ip-tv.dev/images/epg/1757.png?v1743767318"  tvg-rec="5" timeshift="5", Victory HD
-#EXTGRP:Кино
-http://ca.seetv.cc/play/1757/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xussr-premieregroup" tvg-name="USSR HD" tvg-logo="https://ip-tv.dev/images/epg/1758.png?v1743767360"  tvg-rec="5" timeshift="5", USSR HD
-#EXTGRP:Кино
-http://ca.seetv.cc/play/1758/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xparadox-hd" tvg-name="Paradox HD" tvg-logo="https://ip-tv.dev/images/epg/1759.png?v1743767341"  tvg-rec="5" timeshift="5", Paradox HD
 #EXTGRP:Кино
 http://ca.seetv.cc/play/1759/983F158AABB587A/video.m3u8
@@ -727,12 +811,6 @@ http://ca.seetv.cc/play/285/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xparamount-comedy" tvg-name="Comedy Central" tvg-logo="https://ip-tv.dev/images/ico/comedy_central.png"  tvg-rec="5" timeshift="5", Comedy Central
 #EXTGRP:Кино
 http://ca.seetv.cc/play/181/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xntv-serial" tvg-name="НТВ Сериал" tvg-logo="https://ip-tv.dev/epg/icon/ntv-serial.png"  tvg-rec="5" timeshift="5", НТВ Сериал
-#EXTGRP:Кино
-http://ca.seetv.cc/play/784/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xntv-xit" tvg-name="НТВ Хит" tvg-logo="https://ip-tv.dev/images/ico/ntv-xit.png"  tvg-rec="5" timeshift="5", НТВ Хит
-#EXTGRP:Кино
-http://ca.seetv.cc/play/3781/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xkinopokaz" tvg-name="Кинопоказ" tvg-logo="https://ip-tv.dev/epg/icon/kinopokaz.png"  tvg-rec="5" timeshift="5", Кинопоказ
 #EXTGRP:Кино
 http://ca.seetv.cc/play/129/983F158AABB587A/video.m3u8
@@ -937,12 +1015,6 @@ http://ca.seetv.cc/play/931/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xevrokino" tvg-name="Еврокино" tvg-logo="https://ip-tv.dev/epg/icon/eurokino.png"  tvg-rec="5" timeshift="5", Еврокино
 #EXTGRP:Кино
 http://ca.seetv.cc/play/96/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xrussky-roman" tvg-name="Русский роман" tvg-logo="https://ip-tv.dev/epg/icon/russky-roman.png"  tvg-rec="5" timeshift="5", Русский роман
-#EXTGRP:Кино
-http://ca.seetv.cc/play/172/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xrussky-illuzion" tvg-name="Русский Иллюзион" tvg-logo="https://ip-tv.dev/epg/icon/russky-illuzion.png"  tvg-rec="5" timeshift="5", Русский Иллюзион
-#EXTGRP:Кино
-http://ca.seetv.cc/play/201/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xmosfilm" tvg-name="Мосфильм. Золотая коллекция" tvg-logo="https://ip-tv.dev/images/ico/mosfilm.png"  tvg-rec="5" timeshift="5", Мосфильм. Золотая коллекция
 #EXTGRP:Кино
 http://ca.seetv.cc/play/9912/983F158AABB587A/video.m3u8
@@ -955,15 +1027,9 @@ http://ca.seetv.cc/play/202/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xmuzhskoe-kino" tvg-name="Мужское кино" tvg-logo="https://ip-tv.dev/epg/icon/muzhskoe-kino.png"  tvg-rec="5" timeshift="5", Мужское кино
 #EXTGRP:Кино
 http://ca.seetv.cc/play/209/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xnashe-novoe-kino" tvg-name="Наше новое кино" tvg-logo="https://ip-tv.dev/epg/icon/nashe-novoe-kino.png"  tvg-rec="5" timeshift="5", Наше новое кино
-#EXTGRP:Кино
-http://ca.seetv.cc/play/35/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xtrashtv" tvg-name="Trash TV" tvg-logo="https://ip-tv.dev/images/ico/trashtv.png"  tvg-rec="5" timeshift="5", Trash TV
 #EXTGRP:Кино
 http://ca.seetv.cc/play/4830/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xsov-kinklass" tvg-name="Советское кино" tvg-logo="https://ip-tv.dev/images/ico/sov-kinklass.png"  tvg-rec="5" timeshift="5", Советское кино
-#EXTGRP:Кино
-http://ca.seetv.cc/play/9926/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xpobeda" tvg-name="Победа" tvg-logo="https://ip-tv.dev/epg/icon/pobeda.png"  tvg-rec="5" timeshift="5", Победа
 #EXTGRP:Кино
 http://ca.seetv.cc/play/3770/983F158AABB587A/video.m3u8
@@ -973,12 +1039,6 @@ http://ca.seetv.cc/play/5745/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xrusskaya-komedia" tvg-name="Комедия" tvg-logo="https://ip-tv.dev/images/ico/russkaya-komedia.png"  tvg-rec="5" timeshift="5", Комедия
 #EXTGRP:Кино
 http://ca.seetv.cc/play/280/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xrussky-bestseller" tvg-name="Русский бестселлер" tvg-logo="https://ip-tv.dev/epg/icon/russky-bestseller.png"  tvg-rec="5" timeshift="5", Русский бестселлер
-#EXTGRP:Кино
-http://ca.seetv.cc/play/281/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xrussky-detektiv" tvg-name="Русский детектив" tvg-logo="https://ip-tv.dev/epg/icon/rus-detektiv.png"  tvg-rec="5" timeshift="5", Русский детектив
-#EXTGRP:Кино
-http://ca.seetv.cc/play/282/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xkinomiks" tvg-name="Киномикс" tvg-logo="https://ip-tv.dev/epg/icon/kinomiks.png"  tvg-rec="5" timeshift="5", Киномикс
 #EXTGRP:Кино
 http://ca.seetv.cc/play/167/983F158AABB587A/video.m3u8
@@ -1021,7 +1081,6 @@ http://ca.seetv.cc/play/150/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xrussian-extreme-uhd" tvg-name="Russian Extreme Ultra HD" tvg-logo="https://ip-tv.dev/images/ico/russian-extreme-uhd.png" , Russian Extreme Ultra HD
 #EXTGRP:Кино
 http://ca.seetv.cc/play/503/983F158AABB587A/video.m3u8
-
 #EXTINF:0 tvg-id="Xbcu-action" tvg-name="BCU Action HD" tvg-logo="https://ip-tv.dev/images/ico/bcu-action.png"  tvg-rec="5" timeshift="5", BCU Action HD
 #EXTGRP:Кинозалы
 http://ca.seetv.cc/play/7100/983F158AABB587A/video.m3u8
@@ -1064,9 +1123,6 @@ http://ca.seetv.cc/play/7109/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xbcu-romantic" tvg-name="BCU Romantic HD" tvg-logo="https://ip-tv.dev/images/ico/bcu-romantic.png"  tvg-rec="5" timeshift="5", BCU Romantic HD
 #EXTGRP:Кинозалы
 http://ca.seetv.cc/play/7110/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xbcu-russian" tvg-name="BCU Russian HD" tvg-logo="https://ip-tv.dev/images/ico/bcu-russian.png"  tvg-rec="5" timeshift="5", BCU Russian HD
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/7111/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xbcu-trumotion" tvg-name="BCU TruMotion HD" tvg-logo="https://ip-tv.dev/images/ico/bcu-trumotion.png"  tvg-rec="5" timeshift="5", BCU TruMotion HD
 #EXTGRP:Кинозалы
 http://ca.seetv.cc/play/7139/983F158AABB587A/video.m3u8
@@ -1085,21 +1141,9 @@ http://ca.seetv.cc/play/7115/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xbcu-survival" tvg-name="BCU Survival HD" tvg-logo="https://ip-tv.dev/images/ico/bcu-survival.png" , BCU Survival HD
 #EXTGRP:Кинозалы
 http://ca.seetv.cc/play/7116/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xbcu-svaty" tvg-name="BCU СВАТЫ HD" tvg-logo="https://ip-tv.dev/images/ico/bcu-svaty.png"  tvg-rec="5" timeshift="5", BCU СВАТЫ HD
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/7127/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xbcu-ruserial" tvg-name="BCU Ruserial HD" tvg-logo="https://ip-tv.dev/images/ico/bcu-ruserial.png"  tvg-rec="5" timeshift="5", BCU Ruserial HD
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/7119/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xbcu-sssr" tvg-name="BCU СССР HD" tvg-logo="https://ip-tv.dev/images/ico/bcu-sssr-hd.png"  tvg-rec="5" timeshift="5", BCU СССР HD
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/7120/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xbcu-cosmo" tvg-name="BCU Cosmo HD" tvg-logo="https://ip-tv.dev/images/ico/bcu-cosmo.png"  tvg-rec="5" timeshift="5", BCU Cosmo HD
 #EXTGRP:Кинозалы
 http://ca.seetv.cc/play/7137/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xbcu-criminal" tvg-name="BCU Criminal HD" tvg-logo="https://ip-tv.dev/images/ico/bcu-criminal.png"  tvg-rec="5" timeshift="5", BCU Criminal HD
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/7128/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="X9990" tvg-name="Kinoshka Premiere HD" tvg-logo="https://ip-tv.dev/images/ico/kinoshka-premiere.png"  tvg-rec="5" timeshift="5", Kinoshka Premiere HD
 #EXTGRP:Кинозалы
 http://ca.seetv.cc/play/9990/983F158AABB587A/video.m3u8
@@ -1112,9 +1156,6 @@ http://ca.seetv.cc/play/9989/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="X9992" tvg-name="Kinoshka Thriller HD" tvg-logo="https://ip-tv.dev/images/ico/kinoshka-thriller.png"  tvg-rec="5" timeshift="5", Kinoshka Thriller HD
 #EXTGRP:Кинозалы
 http://ca.seetv.cc/play/9992/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="X9995" tvg-name="Kinoshka Russian HD" tvg-logo="https://ip-tv.dev/images/ico/kinoshka-russian.png"  tvg-rec="5" timeshift="5", Kinoshka Russian HD
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/9995/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="X9996" tvg-name="Kinoshka Mystic HD" tvg-logo="https://ip-tv.dev/images/ico/kinoshka-mystic.png"  tvg-rec="5" timeshift="5", Kinoshka Mystic HD
 #EXTGRP:Кинозалы
 http://ca.seetv.cc/play/9996/983F158AABB587A/video.m3u8
@@ -1199,9 +1240,6 @@ http://ca.seetv.cc/play/7079/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-name="Fresh TV Armenia" tvg-logo="https://ip-tv.dev/images/ico/fresh/FreshArmenia.png" , Fresh TV Armenia
 #EXTGRP:Кинозалы
 http://ca.seetv.cc/play/1636/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xfresh-soviet" tvg-name="Fresh Soviet" tvg-logo="https://ip-tv.dev/images/ico/fresh/soviet.png"  tvg-rec="5" timeshift="5", Fresh Soviet
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/1637/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xfresh-series" tvg-name="Fresh Series" tvg-logo="https://ip-tv.dev/images/ico/fresh/series.png"  tvg-rec="5" timeshift="5", Fresh Series
 #EXTGRP:Кинозалы
 http://ca.seetv.cc/play/1638/983F158AABB587A/video.m3u8
@@ -1238,9 +1276,6 @@ http://ca.seetv.cc/play/1647/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xfresh-romatic" tvg-name="Fresh Romantic" tvg-logo="https://ip-tv.dev/images/ico/fresh/romantic.png"  tvg-rec="5" timeshift="5", Fresh Romantic
 #EXTGRP:Кинозалы
 http://ca.seetv.cc/play/1648/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xfresh-russian" tvg-name="Fresh Russian" tvg-logo="https://ip-tv.dev/images/ico/fresh/russian.png"  tvg-rec="5" timeshift="5", Fresh Russian
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/1649/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xfresh-thriller" tvg-name="Fresh Thriller" tvg-logo="https://ip-tv.dev/images/ico/fresh/thriller.png"  tvg-rec="5" timeshift="5", Fresh Thriller
 #EXTGRP:Кинозалы
 http://ca.seetv.cc/play/1687/983F158AABB587A/video.m3u8
@@ -1265,9 +1300,6 @@ http://ca.seetv.cc/play/8815/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="X42051" tvg-name="KBC-WAR HD" tvg-logo="https://ip-tv.dev/images/ico/42051-65eb84cfa1c06.png"  tvg-rec="5" timeshift="5", KBC-WAR HD
 #EXTGRP:Кинозалы
 http://ca.seetv.cc/play/8816/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="X36168" tvg-name="KBC-Russian Комедия HD" tvg-logo="https://ip-tv.dev/images/ico/36168-6009d4d03d8ee.png"  tvg-rec="5" timeshift="5", KBC-Russian Комедия HD
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/8817/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="X36251" tvg-name="KBC-Видак HD" tvg-logo="https://ip-tv.dev/images/ico/36251-6009d1a8d9ed5.png"  tvg-rec="5" timeshift="5", KBC-Видак HD
 #EXTGRP:Кинозалы
 http://ca.seetv.cc/play/8818/983F158AABB587A/video.m3u8
@@ -1283,9 +1315,6 @@ http://ca.seetv.cc/play/8821/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="X36277" tvg-name="KBC-Кошмарное HD" tvg-logo="https://ip-tv.dev/images/ico/36277-6009d669219d3.png"  tvg-rec="5" timeshift="5", KBC-Кошмарное HD
 #EXTGRP:Кинозалы
 http://ca.seetv.cc/play/8822/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="X36506" tvg-name="KBC-Страна СССР" tvg-logo="https://ip-tv.dev/images/ico/36506-6009d7a51db00.png"  tvg-rec="5" timeshift="5", KBC-Страна СССР
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/8824/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="X42054" tvg-name="KBC-ГОБЛИН HD" tvg-logo="https://ip-tv.dev/images/ico/42054-65e74a64c6401.png"  tvg-rec="5" timeshift="5", KBC-ГОБЛИН HD
 #EXTGRP:Кинозалы
 http://ca.seetv.cc/play/8825/983F158AABB587A/video.m3u8
@@ -1313,12 +1342,6 @@ http://ca.seetv.cc/play/8779/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xyosso-vhs" tvg-name="YOSSO TV VHS" tvg-logo="https://ip-tv.dev/images/ico/yosso-vhs.png"  tvg-rec="5" timeshift="5", YOSSO TV VHS
 #EXTGRP:Кинозалы
 http://ca.seetv.cc/play/8778/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xyosso-rusfilm" tvg-name="YOSSO TV Русские фильмы" tvg-logo="https://ip-tv.dev/images/ico/yosso-rusfilm.png"  tvg-rec="5" timeshift="5", YOSSO TV Русские фильмы
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/8776/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xyosso-sovfilm" tvg-name="YOSSO TV Советские фильмы" tvg-logo="https://ip-tv.dev/images/ico/yosso-sovfilm.png"  tvg-rec="5" timeshift="5", YOSSO TV Советские фильмы
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/8775/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xyosso-newkino" tvg-name="YOSSO TV New Кино" tvg-logo="https://ip-tv.dev/images/ico/yosso-newkino.png"  tvg-rec="5" timeshift="5", YOSSO TV New Кино
 #EXTGRP:Кинозалы
 http://ca.seetv.cc/play/8773/983F158AABB587A/video.m3u8
@@ -1355,9 +1378,6 @@ http://ca.seetv.cc/play/8768/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xmagic-adventure" tvg-name="Magic Adventure" tvg-logo="https://ip-tv.dev/images/ico/magic-adventure.png"  tvg-rec="5" timeshift="5", Magic Adventure
 #EXTGRP:Кинозалы
 http://ca.seetv.cc/play/6681/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xmagic-russian" tvg-name="Magic Russian" tvg-logo="https://ip-tv.dev/images/ico/magic-russian.png"  tvg-rec="5" timeshift="5", Magic Russian
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/6683/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xmagic-premiere" tvg-name="Magic Premiere" tvg-logo="https://ip-tv.dev/images/ico/magic_premiere.png"  tvg-rec="5" timeshift="5", Magic Premiere
 #EXTGRP:Кинозалы
 http://ca.seetv.cc/play/1737/983F158AABB587A/video.m3u8
@@ -1436,9 +1456,6 @@ http://ca.seetv.cc/play/13010/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xcineman-premium" tvg-name="CineMan Premium" tvg-logo="https://ip-tv.dev/images/ico/cineman-premium.png"  tvg-rec="5" timeshift="5", CineMan Premium
 #EXTGRP:Кинозалы
 http://ca.seetv.cc/play/13011/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xcineman-rukino" tvg-name="CineMan РуКино" tvg-logo="https://ip-tv.dev/images/ico/cineman-rukino.png"  tvg-rec="5" timeshift="5", CineMan РуКино
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/13012/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xcineman-simps" tvg-name="CineMan Симпсоны" tvg-logo="https://ip-tv.dev/images/ico/cineman-simps.png"  tvg-rec="5" timeshift="5", CineMan Симпсоны
 #EXTGRP:Кинозалы
 http://ca.seetv.cc/play/13013/983F158AABB587A/video.m3u8
@@ -1664,27 +1681,9 @@ http://ca.seetv.cc/play/6006/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xminimax-newfilm3" tvg-name="MM NewFilm 3 HD" tvg-logo="https://ip-tv.dev/images/ico/minimax-newfilm3.png"  tvg-rec="5" timeshift="5", MM NewFilm 3 HD
 #EXTGRP:Кинозалы
 http://ca.seetv.cc/play/6007/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xminimax-newfilmru" tvg-name="MM NewFilm RU HD" tvg-logo="https://ip-tv.dev/images/ico/minimax-newfilmru.png"  tvg-rec="5" timeshift="5", MM NewFilm RU HD
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/6008/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xminimax-ufo" tvg-name="MM UFO HD" tvg-logo="https://ip-tv.dev/images/ico/minimax-ufo.png"  tvg-rec="5" timeshift="5", MM UFO HD
 #EXTGRP:Кинозалы
 http://ca.seetv.cc/play/6009/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xminimax-ussr-1941-1945" tvg-name="MM USSR 1941-1945 HD" tvg-logo="https://ip-tv.dev/images/ico/minimax-ussr-1941-1945.png"  tvg-rec="5" timeshift="5", MM USSR 1941-1945 HD
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/6010/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xminimax-ussr-detektiv" tvg-name="MM USSR Детектив HD" tvg-logo="https://ip-tv.dev/images/ico/minimax-ussr-detektiv.png"  tvg-rec="5" timeshift="5", MM USSR Детектив HD
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/6011/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xminimax-ussr-komedija" tvg-name="MM USSR Комедия HD" tvg-logo="https://ip-tv.dev/images/ico/minimax-ussr-komedija.png"  tvg-rec="5" timeshift="5", MM USSR Комедия HD
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/6012/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xminimax-ussr-prikluchenija" tvg-name="MM USSR Приключения HD" tvg-logo="https://ip-tv.dev/images/ico/minimax-ussr-prikluchenija.png"  tvg-rec="5" timeshift="5", MM USSR Приключения HD
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/6013/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xminimax-ussr-fantastika" tvg-name="MM USSR Драма HD" tvg-logo="https://ip-tv.dev/images/ico/minimax-ussr-fantastika.png"  tvg-rec="5" timeshift="5", MM USSR Драма HD
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/6015/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xminimax-boevik" tvg-name="MM Боевик HD" tvg-logo="https://ip-tv.dev/images/ico/minimax-boevik.png"  tvg-rec="5" timeshift="5", MM Боевик HD
 #EXTGRP:Кинозалы
 http://ca.seetv.cc/play/6017/983F158AABB587A/video.m3u8
@@ -1739,9 +1738,6 @@ http://ca.seetv.cc/play/6033/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xminimax-prikluchenija" tvg-name="MM Приключения HD" tvg-logo="https://ip-tv.dev/images/ico/minimax-prikluchenija.png"  tvg-rec="5" timeshift="5", MM Приключения HD
 #EXTGRP:Кинозалы
 http://ca.seetv.cc/play/6034/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xminimax-roskino" tvg-name="MM Роскино HD" tvg-logo="https://ip-tv.dev/images/ico/minimax-roskino.png"  tvg-rec="5" timeshift="5", MM Роскино HD
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/6035/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xminimax-svati" tvg-name="MM Сваты HD" tvg-logo="https://ip-tv.dev/images/ico/minimax-svati.png"  tvg-rec="5" timeshift="5", MM Сваты HD
 #EXTGRP:Кинозалы
 http://ca.seetv.cc/play/6036/983F158AABB587A/video.m3u8
@@ -1814,6 +1810,10 @@ http://ca.seetv.cc/play/6061/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xminimax-st-king" tvg-name="MM Стивен Кинг HD" tvg-logo="https://ip-tv.dev/images/ico/minimax-st-king.png"  tvg-rec="5" timeshift="5", MM Стивен Кинг HD
 #EXTGRP:Кинозалы
 http://ca.seetv.cc/play/6062/983F158AABB587A/video.m3u8
+
+
+
+
 #EXTINF:0 tvg-id="Xkliaction" tvg-name="KLI Action HD" tvg-logo="https://ip-tv.dev/images/ico/kli/kli_action.png" , KLI Action HD
 #EXTGRP:Кинозалы
 http://ca.seetv.cc/play/7315/983F158AABB587A/video.m3u8
