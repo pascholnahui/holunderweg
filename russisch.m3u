@@ -300,6 +300,16 @@ http://ca.seetv.cc/play/5358/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xrgvk-dagestan" tvg-name="РГВК Дагестан" tvg-logo="https://ip-tv.dev/images/ico/rgvk-dagestan.png" , РГВК Дагестан
 #EXTGRP:Россия
 http://ca.seetv.cc/play/5359/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xbrianskaya-gubernia" tvg-name="Брянская Губерния" tvg-logo="https://ip-tv.dev/images/ico/brianskaya-gubernia.png" , Брянская Губерния
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5355/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xgrozny" tvg-name="Грозный" tvg-logo="https://ip-tv.dev/images/ico/grozny.png" , Грозный
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5360/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xteotv" tvg-name="Тео-ТВ" tvg-logo="https://ip-tv.dev/images/ico/teotv.png" , Тео-ТВ
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5361/983F158AABB587A/video.m3u8
+
 #EXTINF:0 tvg-id="Xtv1000-russkoe-kino" tvg-name="Viju TV1000 Русское кино HD" tvg-logo="https://ip-tv.dev/images/ico/viju-tv1000-russkoe-kino.png"  tvg-rec="5" timeshift="5", Viju TV1000 Русское кино HD
 #EXTGRP:Россия
 http://ca.seetv.cc/play/489/983F158AABB587A/video.m3u8
@@ -414,21 +424,18 @@ http://ca.seetv.cc/play/6015/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xminimax-roskino" tvg-name="MM Роскино HD" tvg-logo="https://ip-tv.dev/images/ico/minimax-roskino.png"  tvg-rec="5" timeshift="5", MM Роскино HD
 #EXTGRP:Россия
 http://ca.seetv.cc/play/6035/983F158AABB587A/video.m3u8
-
-
-
-
+#EXTINF:0 tvg-name="UZ-Союз-Фильмы HD", UZ-Союз-Фильмы HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/6080/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xliberty-rusfilm	" tvg-name="Liberty Русфильм 4K" tvg-logo="https://ip-tv.dev/images/epg/1850.png?v1745396560" , Liberty Русфильм 4K
+#EXTGRP:Россия
+http://ca.seetv.cc/play/1850/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xliberty-soyuz" tvg-name="Liberty Союз 4K" tvg-logo="https://ip-tv.dev/images/epg/1860.png?v1745397521" , Liberty Союз 4K
+#EXTGRP:Россия
+http://ca.seetv.cc/play/1860/983F158AABB587A/video.m3u8
 #EXTINF:-1 tvg-id="",Смотрим
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-#EXTINF:0 tvg-id="Xbrianskaya-gubernia" tvg-name="Брянская Губерния" tvg-logo="https://ip-tv.dev/images/ico/brianskaya-gubernia.png" , Брянская Губерния
-#EXTGRP:Россия
-http://ca.seetv.cc/play/5355/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xgrozny" tvg-name="Грозный" tvg-logo="https://ip-tv.dev/images/ico/grozny.png" , Грозный
-#EXTGRP:Россия
-http://ca.seetv.cc/play/5360/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xteotv" tvg-name="Тео-ТВ" tvg-logo="https://ip-tv.dev/images/ico/teotv.png" , Тео-ТВ
-#EXTGRP:Россия
-http://ca.seetv.cc/play/5361/983F158AABB587A/video.m3u8
+
 #EXTINF:0 tvg-id="Xevrasia" tvg-name="Евразия" tvg-logo="https://ip-tv.dev/images/ico/evrasia.png" , Евразия
 #EXTGRP:Россия
 http://ca.seetv.cc/play/5363/983F158AABB587A/video.m3u8
@@ -602,14 +609,15 @@ http://ca.seetv.cc/play/130/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xdomashny-pl2" tvg-name="Домашний +2" tvg-logo="https://ip-tv.dev/images/ico/domashny-pl2.png" , Домашний +2
 #EXTGRP:Россия
 http://ca.seetv.cc/play/128/983F158AABB587A/video.m3u8
+
 #EXTINF:0 tvg-id="Xstrashnoe-hd" tvg-name="Страшное HD" tvg-logo="https://ip-tv.dev/epg/icon/strashnoe-hd.png"  tvg-rec="5" timeshift="5", Страшное HD
-#EXTGRP:Россия
+#EXTGRP:Кино
 http://ca.seetv.cc/play/371/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xvictory-hd" tvg-name="Victory HD" tvg-logo="https://ip-tv.dev/images/epg/1757.png?v1743767318"  tvg-rec="5" timeshift="5", Victory HD
-#EXTGRP:Россия
+#EXTGRP:Кино
 http://ca.seetv.cc/play/1757/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xbcu-criminal" tvg-name="BCU Criminal HD" tvg-logo="https://ip-tv.dev/images/ico/bcu-criminal.png"  tvg-rec="5" timeshift="5", BCU Criminal HD
-#EXTGRP:Россия
+#EXTGRP:Кино
 http://ca.seetv.cc/play/7128/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xtv1000-cee" tvg-name="Viasat Kino HD" tvg-logo="https://ip-tv.dev/images/ico/tv1000-cee.png"  tvg-rec="5" timeshift="5", Viasat Kino HD
 #EXTGRP:Кино
@@ -1631,9 +1639,6 @@ http://ca.seetv.cc/play/6078/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-name="UZ-Кинокомфорт HD", UZ-Кинокомфорт HD
 #EXTGRP:Кинозалы
 http://ca.seetv.cc/play/6079/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-name="UZ-Союз-Фильмы HD", UZ-Союз-Фильмы HD
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/6080/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-name="UZ-Сериал HD", UZ-Сериал HD
 #EXTGRP:Кинозалы
 http://ca.seetv.cc/play/6087/983F158AABB587A/video.m3u8
@@ -1814,16 +1819,15 @@ http://ca.seetv.cc/play/6061/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xminimax-st-king" tvg-name="MM Стивен Кинг HD" tvg-logo="https://ip-tv.dev/images/ico/minimax-st-king.png"  tvg-rec="5" timeshift="5", MM Стивен Кинг HD
 #EXTGRP:Кинозалы
 http://ca.seetv.cc/play/6062/983F158AABB587A/video.m3u8
-
-
-
-
 #EXTINF:0 tvg-id="Xkliaction" tvg-name="KLI Action HD" tvg-logo="https://ip-tv.dev/images/ico/kli/kli_action.png" , KLI Action HD
 #EXTGRP:Кинозалы
 http://ca.seetv.cc/play/7315/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xklicinema" tvg-name="KLI Cinema HD" tvg-logo="https://ip-tv.dev/images/ico/kli/CINEMA.png" , KLI Cinema HD
 #EXTGRP:Кинозалы
 http://ca.seetv.cc/play/7316/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xklirussian" tvg-name="KLI Russian HD" tvg-logo="https://ip-tv.dev/images/ico/kli/RUSSIAN.png" , KLI Russian HD
+#EXTGRP:Кинозалы
+http://ca.seetv.cc/play/7340/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xkliclub" tvg-name="KLI Club HD" tvg-logo="https://ip-tv.dev/images/ico/kli/kliclub.png" , KLI Club HD
 #EXTGRP:Кинозалы
 http://ca.seetv.cc/play/7317/983F158AABB587A/video.m3u8
@@ -1881,9 +1885,6 @@ http://ca.seetv.cc/play/7336/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xkliretro" tvg-name="KLI Retro HD" tvg-logo="https://ip-tv.dev/images/ico/kli/KLIRetro.png" , KLI Retro HD
 #EXTGRP:Кинозалы
 http://ca.seetv.cc/play/7339/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xklirussian" tvg-name="KLI Russian HD" tvg-logo="https://ip-tv.dev/images/ico/kli/RUSSIAN.png" , KLI Russian HD
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/7340/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xkliaction" tvg-name="KLI Thriller HD" tvg-logo="https://ip-tv.dev/images/ico/kli/kliaction.png" , KLI Thriller HD
 #EXTGRP:Кинозалы
 http://ca.seetv.cc/play/7341/983F158AABB587A/video.m3u8
@@ -1938,451 +1939,6 @@ http://ca.seetv.cc/play/1734/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xkernel-vremia" tvg-name="Kernel TV Время" tvg-logo="https://ip-tv.dev/images/ico/kernel-vremia.png" , Kernel TV Время
 #EXTGRP:Кинозалы
 http://ca.seetv.cc/play/1735/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xkernel-geroj" tvg-name="Kernel TV Герой" tvg-logo="https://ip-tv.dev/images/ico/kernel-geroj.png" , Kernel TV Герой
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/1736/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-name="TOP: MIX", TOP: MIX
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/1635/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-name="jk_fargo", jk_fargo
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/50002/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-name="jk_SexandCity", jk_SexandCity
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/50126/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-name="jk_desperate", jk_desperate
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/50127/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-name="TOP: Великолепный Век", TOP: Великолепный Век
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/1630/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-name="TOP: 80's", TOP: 80's
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/1631/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-name="TOP: BUDO", TOP: BUDO
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/1632/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-name="TOP: CINEMA", TOP: CINEMA
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/1633/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-name="TOP: USSR", TOP: USSR
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/1634/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-name="CPS Drama" tvg-logo="https://ip-tv.dev/images/ico/6833.png" , CPS Drama
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/1738/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-name="CPS Comedy" tvg-logo="https://ip-tv.dev/images/ico/6929.png" , CPS Comedy
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/1742/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-name="CPS Action" tvg-logo="https://ip-tv.dev/images/ico/7196.png" , CPS Action
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/1744/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-name="CPS Western" tvg-logo="https://ip-tv.dev/images/ico/6928.png" , CPS Western
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/1739/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-name="CPS Mix" tvg-logo="https://ip-tv.dev/images/ico/6930.png" , CPS Mix
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/1740/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-name="CPS Fiction" tvg-logo="https://ip-tv.dev/images/ico/6927.png" , CPS Fiction
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/1741/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-name="CPS Anime" tvg-logo="https://ip-tv.dev/images/ico/7195.png" , CPS Anime
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/1743/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-name="CPS USSR" tvg-logo="https://ip-tv.dev/images/ico/7658.png" , CPS USSR
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/1745/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-name="CPS Fresh" tvg-logo="https://ip-tv.dev/images/ico/7664.png" , CPS Fresh
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/1746/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-name="CPS Oscar" tvg-logo="https://ip-tv.dev/images/ico/7692.png" , CPS Oscar
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/1747/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-name="CPS Detective" tvg-logo="https://ip-tv.dev/images/ico/7996.png" , CPS Detective
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/1749/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-name="CPS Jackie Chan" tvg-logo="https://ip-tv.dev/images/ico/8003.png" , CPS Jackie Chan
-#EXTGRP:Кинозалы
-http://ca.seetv.cc/play/1750/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="X6143" tvg-name="Kinoshka Ukraine HD" tvg-logo="https://ip-tv.dev/images/ico/kinoshka_ukraine.png"  tvg-rec="5" timeshift="5", Kinoshka Ukraine HD
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/6143/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xliberty-kinoukr" tvg-name="Liberty Кино UKR HD" tvg-logo="https://ip-tv.dev/images/ico/liberty/liberty-kinoukr.png"  tvg-rec="5" timeshift="5", Liberty Кино UKR HD
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/7068/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-name="CPS Fresh UA" tvg-logo="https://ip-tv.dev/images/ico/8066.png" , CPS Fresh UA
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/1751/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-name="SWEET КIНО HD" tvg-logo="https://ip-tv.dev/images/epg/1886.jpg?v1746176880" , SWEET КIНО HD
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/1886/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="XSimson" tvg-name="Joker:Сімсони" tvg-logo="https://ip-tv.dev/images/ico/9644.png" , Joker:Сімсони
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50004/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xgubka_bob" tvg-name="Joker:Губка Боб" tvg-logo="https://ip-tv.dev/images/ico/9909.png" , Joker:Губка Боб
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50008/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_love" tvg-name="Joker:Love" tvg-logo="https://ip-tv.dev/images/ico/10620.png" , Joker:Love
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50009/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Alf" tvg-name="Joker:Альф" tvg-logo="https://ip-tv.dev/images/ico/9620.png" , Joker:Альф
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50001/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_futurama" tvg-name="Joker:Футурама" tvg-logo="https://ip-tv.dev/images/ico/9911.png" , Joker:Футурама
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50014/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_csi_NY" tvg-name="Joker:CSI NY" tvg-logo="https://ip-tv.dev/images/ico/9912.png" , Joker:CSI NY
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50016/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_csi_vegas" tvg-name="Joker:CSI Vegas" tvg-logo="https://ip-tv.dev/images/ico/9913.png" , Joker:CSI Vegas
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50017/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_csi_m" tvg-name="Joker:CSI Miami" tvg-logo="https://ip-tv.dev/images/ico/9914.png" , Joker:CSI Miami
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50018/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_x_files" tvg-name="Joker:Секретні матеріали" tvg-logo="https://ip-tv.dev/images/ico/9627.png" , Joker:Секретні матеріали
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50021/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_House_Dragon" tvg-name="Joker:Дім Дракона" tvg-logo="https://ip-tv.dev/images/ico/9915.png" , Joker:Дім Дракона
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50022/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Sherlock" tvg-name="Joker:Шерлок" tvg-logo="https://ip-tv.dev/images/ico/9624.png" , Joker:Шерлок
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50023/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Gostri_Kartuz" tvg-name="Joker:Гострі картузи" tvg-logo="https://ip-tv.dev/images/ico/9625.png" , Joker:Гострі картузи
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50024/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Vedmak" tvg-name="Joker:Відьмак" tvg-logo="https://ip-tv.dev/images/ico/9626.png" , Joker:Відьмак
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50025/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_panda" tvg-name="Joker:Панда Кун-фу" tvg-logo="https://ip-tv.dev/images/ico/9647.png" , Joker:Панда Кун-фу
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50026/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_formula" tvg-name="Joker:Формула" tvg-logo="https://ip-tv.dev/images/ico/10624.png" , Joker:Формула
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50082/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Tarantino" tvg-name="Joker:Тарантіно" tvg-logo="https://ip-tv.dev/images/ico/10633.png" , Joker:Тарантіно
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50109/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Robocar_Poli" tvg-name="Joker:Робокар Полі" tvg-logo="https://ip-tv.dev/images/ico/9925.png" , Joker:Робокар Полі
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50050/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_sexsity" tvg-name="Joker:Секс і Місто" tvg-logo="https://ip-tv.dev/images/ico/9633.png" , Joker:Секс і Місто
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50041/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Colombo" tvg-name="Joker:Коломбо" tvg-logo="https://ip-tv.dev/images/ico/9635.png" , Joker:Коломбо
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50043/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_American_Dad" tvg-name="Joker:Американський тато" tvg-logo="https://ip-tv.dev/images/ico/9922.png" , Joker:Американський тато
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50045/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Grifins" tvg-name="Joker:Гріфіни" tvg-logo="https://ip-tv.dev/images/ico/9924.png" , Joker:Гріфіни
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50047/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_rusaloshka" tvg-name="Joker:Русалочка" tvg-logo="https://ip-tv.dev/images/ico/9948.png" , Joker:Русалочка
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50097/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_aladin" tvg-name="Joker:Аладдін" tvg-logo="https://ip-tv.dev/images/ico/9949.png" , Joker:Аладдін
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50098/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Chip_Dale" tvg-name="Joker:Чіп та Дейл" tvg-logo="https://ip-tv.dev/images/ico/9950.png" , Joker:Чіп та Дейл
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50099/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_arnold" tvg-name="Joker:Гей Арнольд!" tvg-logo="https://ip-tv.dev/images/ico/9951.png" , Joker:Гей Арнольд!
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50100/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_TomJery" tvg-name="Joker: Том та Джеррі", Joker: Том та Джеррі
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50101/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Pepa_pig" tvg-name="Joker:Свинка Пепа" tvg-logo="https://ip-tv.dev/images/ico/9648.png" , Joker:Свинка Пепа
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50049/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_PAW_Patrol" tvg-name="Joker:Щенячий патруль" tvg-logo="https://ip-tv.dev/images/ico/9649.png" , Joker:Щенячий патруль
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50051/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_ducks" tvg-name="Joker:Качині історії" tvg-logo="https://ip-tv.dev/images/ico/9646.png" , Joker:Качині історії
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50015/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_90" tvg-name="Joker:90-ті" tvg-logo="https://ip-tv.dev/images/ico/10621.png" , Joker:90-ті
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50019/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_GoT" tvg-name="Joker:Гра престолів" tvg-logo="https://ip-tv.dev/images/ico/9623.png" , Joker:Гра престолів
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50020/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_ledi_Bag" tvg-name="Joker:Леді Баг і Супер кіт" tvg-logo="https://ip-tv.dev/images/ico/9916.png" , Joker:Леді Баг і Супер кіт
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50027/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Poirot" tvg-name="Joker:Пуаро Агати Крісті" tvg-logo="https://ip-tv.dev/images/ico/9628.png" , Joker:Пуаро Агати Крісті
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50029/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Dexter" tvg-name="Joker:Декстер" tvg-logo="https://ip-tv.dev/images/ico/9629.png" , Joker:Декстер
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50031/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Castle" tvg-name="Joker:Касл" tvg-logo="https://ip-tv.dev/images/ico/9630.png" , Joker:Касл
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50032/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_brookllyn" tvg-name="Joker:Бруклін 9-9" tvg-logo="https://ip-tv.dev/images/ico/9917.png" , Joker:Бруклін 9-9
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50033/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_FUBAR" tvg-name="Joker:Фубар" tvg-logo="https://ip-tv.dev/images/ico/9918.png" , Joker:Фубар
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50034/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_kosty" tvg-name="Joker:Кістки" tvg-logo="https://ip-tv.dev/images/ico/9631.png" , Joker:Кістки
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50035/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_berega" tvg-name="Joker:Пуститися берега" tvg-logo="https://ip-tv.dev/images/ico/9919.png" , Joker:Пуститися берега
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50036/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Mel" tvg-name="Joker:Мел Гібсон" tvg-logo="https://ip-tv.dev/images/ico/10622.png" , Joker:Мел Гібсон
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50037/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Lie_To_Me" tvg-name="Joker:Теорія брехні" tvg-logo="https://ip-tv.dev/images/ico/9632.png" , Joker:Теорія брехні
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50038/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Muhtesem" tvg-name="Joker:Величне століття" tvg-logo="https://ip-tv.dev/images/ico/9920.png" , Joker:Величне століття
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50039/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Van_Dame" tvg-name="Joker:Ван Дамм" tvg-logo="https://ip-tv.dev/images/ico/10623.png" , Joker:Ван Дамм
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50040/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_desperate_ukr" tvg-name="Joker:Вітчайдушні домогосподарки" tvg-logo="https://ip-tv.dev/images/ico/9634.png" , Joker:Вітчайдушні домогосподарки
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50042/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Ben_Holly" tvg-name="Joker:Маленьке королівство Бена і Холлі" tvg-logo="https://ip-tv.dev/images/ico/9921.png" , Joker:Маленьке королівство Бена і Холлі
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50044/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Gravity_Falls" tvg-name="Joker:Гравіті Фолз" tvg-logo="https://ip-tv.dev/images/ico/9923.png" , Joker:Гравіті Фолз
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50046/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_South_Park" tvg-name="Joker:South Park" tvg-logo="https://ip-tv.dev/images/ico/9643.png" , Joker:South Park
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50048/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Your_mother" tvg-name="Joker:Як я зустрів вашу маму" tvg-logo="https://ip-tv.dev/images/ico/9636.png" , Joker:Як я зустрів вашу маму
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50052/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Big_Bang" tvg-name="Joker:Теорія великого вибуху" tvg-logo="https://ip-tv.dev/images/ico/9926.png" , Joker:Теорія великого вибуху
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50053/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Cinema" tvg-name="Joker:Cinema" tvg-logo="https://ip-tv.dev/images/ico/9952.png" , Joker:Cinema
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50054/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Cinema2" tvg-name="Joker:Cinema2" tvg-logo="https://ip-tv.dev/images/ico/9953.png" , Joker:Cinema2
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50055/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_gorets" tvg-name="Joker:Горець" tvg-logo="https://ip-tv.dev/images/ico/9927.png" , Joker:Горець
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50057/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Criminal" tvg-name="Joker:Mислити як злочинець" tvg-logo="https://ip-tv.dev/images/ico/10625.png" , Joker:Mислити як злочинець
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50061/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_mentalist" tvg-name="Joker:Менталіст" tvg-logo="https://ip-tv.dev/images/ico/9638.png" , Joker:Менталіст
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50064/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_ograblenie" tvg-name="Joker:Пограбування" tvg-logo="https://ip-tv.dev/images/ico/10627.png" , Joker:Пограбування
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50067/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Heroes" tvg-name="Joker:Герої" tvg-logo="https://ip-tv.dev/images/ico/9942.png" , Joker:Герої
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50090/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_korona" tvg-name="Joker:Корона" tvg-logo="https://ip-tv.dev/images/ico/9932.png" , Joker:Корона
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50071/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_lost" tvg-name="Joker:Загублені" tvg-logo="https://ip-tv.dev/images/ico/9934.png" , Joker:Загублені
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50073/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Black_Mirror" tvg-name="Joker:Чорне дзеркало" tvg-logo="https://ip-tv.dev/images/ico/9642.png" , Joker:Чорне дзеркало
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50080/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_biograf" tvg-name="Joker:Біографічне" tvg-logo="https://ip-tv.dev/images/ico/9958.png" , Joker:Біографічне
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50085/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_speed" tvg-name="Joker:Швидкість" tvg-logo="https://ip-tv.dev/images/ico/9959.png" , Joker:Швидкість
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50087/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Call_Saul" tvg-name="Joker:Краще подзвоніть Солу" tvg-logo="https://ip-tv.dev/images/ico/9940.png" , Joker:Краще подзвоніть Солу
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50088/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_pingvins" tvg-name="Joker:Пінгвіни Мадагаскару" tvg-logo="https://ip-tv.dev/images/ico/9944.png" , Joker:Пінгвіни Мадагаскару
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50093/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Lilo" tvg-name="Joker:Ліло і Стіч" tvg-logo="https://ip-tv.dev/images/ico/9947.png" , Joker:Ліло і Стіч
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50096/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Cinema3" tvg-name="jk_Cinema3", jk_Cinema3
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50056/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_doku_Ukraine" tvg-name="jk_doku_Ukraine", jk_doku_Ukraine
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50058/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_serial" tvg-name="jk_serial", jk_serial
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50059/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Magic" tvg-name="jk_Magic", jk_Magic
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50060/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_90210" tvg-name="jk_90210", jk_90210
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50062/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Rik_i_Marti" tvg-name="Рік і Марті", Рік і Марті
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50063/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_dram" tvg-name="jk_dram", jk_dram
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50065/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_fineas" tvg-name="jk_fineas", jk_fineas
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50066/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_strah" tvg-name="jk_strah", jk_strah
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50068/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Sliders" tvg-name="jk_Sliders", jk_Sliders
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50069/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Succession" tvg-name="jk_Succession", jk_Succession
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50070/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Money_Heist" tvg-name="jk_Money_Heist", jk_Money_Heist
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50072/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_office" tvg-name="jk_office", jk_office
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50074/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Scrubs" tvg-name="jk_Scrubs", jk_Scrubs
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50075/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_house_of_cards" tvg-name="Картковий Будинок", Картковий Будинок
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50076/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_element" tvg-name="jk_element", jk_element
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50077/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Buffy" tvg-name="jk_Buffy", jk_Buffy
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50078/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Melrose_Place" tvg-name="jk_Melrose_Place", jk_Melrose_Place
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50079/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Stargate" tvg-name="jk_Stargate", jk_Stargate
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50081/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Only_Murders" tvg-name="jk_Only_Murders", jk_Only_Murders
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50083/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_detektiv" tvg-name="jk_detektiv", jk_detektiv
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50084/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_NCIS" tvg-name="jk_NCIS", jk_NCIS
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50086/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_dark" tvg-name="jk_dark", jk_dark
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50089/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_balance" tvg-name="jk_balance", jk_balance
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50091/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_timon" tvg-name="jk_timon", jk_timon
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50092/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Cartoon" tvg-name="jk_Cartoon", jk_Cartoon
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50094/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Flintstones" tvg-name="jk_Flintstones", jk_Flintstones
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50095/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="XThe_Last_of_Us" tvg-name="The_Last_of_Us", The_Last_of_Us
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50006/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="XHouse_ukr" tvg-name="House_ukr", House_ukr
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50007/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_grimm" tvg-name="jk_grimm", jk_grimm
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50010/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_kids" tvg-name="jk_kids", jk_kids
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50012/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_black_cloak" tvg-name="jk_black_cloak", jk_black_cloak
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50013/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Twin_Peaks" tvg-name="Joker: Twin Peaks", Joker: Twin Peaks
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50028/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_boys" tvg-name="jk_boys", jk_boys
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50030/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Winx" tvg-name="jk_Winx", jk_Winx
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50102/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xfantastika" tvg-name="Joker: Фантастика", Joker: Фантастика
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50011/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Morning_Show" tvg-name="jk_Morning_Show", jk_Morning_Show
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50103/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Ritchie" tvg-name="jk_Ritchie", jk_Ritchie
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50104/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Scorsese" tvg-name="jk_Scorsese", jk_Scorsese
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50105/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="XWednesday" tvg-name="Joker: Wednesday", Joker: Wednesday
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50005/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Spilberg" tvg-name="jk_Spilberg", jk_Spilberg
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50106/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Kopola" tvg-name="jk_Kopola", jk_Kopola
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50107/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Skott" tvg-name="jk_Skott", jk_Skott
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50108/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Kameron" tvg-name="jk_Kameron", jk_Kameron
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50110/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Besson" tvg-name="jk_Besson", jk_Besson
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50111/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Nolan" tvg-name="jk_Nolan", jk_Nolan
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50112/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_relax" tvg-name="Релакс", Релакс
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50113/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_King" tvg-name="jk_King", jk_King
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50114/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Crowe" tvg-name="jk_Crowe", jk_Crowe
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50115/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Reeves" tvg-name="jk_Reeves", jk_Reeves
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50116/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Hemsworth" tvg-name="jk_Hemsworth", jk_Hemsworth
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50117/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Butler" tvg-name="jk_Butler", jk_Butler
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50118/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Kunis" tvg-name="jk_Kunis", jk_Kunis
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50119/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Neeson" tvg-name="jk_Neeson", jk_Neeson
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50120/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Scorpion" tvg-name="jk_Scorpion", jk_Scorpion
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50122/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_duva" tvg-name="jk_duva", jk_duva
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50123/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_Emeli" tvg-name="jk_Emeli", jk_Emeli
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50124/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="jk_rizdvo" tvg-name="Різдво", Різдво
-#EXTGRP:Кинозалы UA
-http://ca.seetv.cc/play/50125/983F158AABB587A/video.m3u8
 
 #EXTINF:0 tvg-id="Xbcu-ultra4k" tvg-name="BCU Ultra 4K" tvg-logo="https://ip-tv.dev/images/ico/bcu-ultra4k.png" , BCU Ultra 4K
 #EXTGRP:Кино 4K
@@ -2429,9 +1985,6 @@ http://ca.seetv.cc/play/1851/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xliberty-netflix" tvg-name="Liberty Netflix 4K" tvg-logo="https://ip-tv.dev/images/epg/1852.png?v1745396756" , Liberty Netflix 4K
 #EXTGRP:Кино 4K
 http://ca.seetv.cc/play/1852/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xliberty-rusfilm	" tvg-name="Liberty Русфильм 4K" tvg-logo="https://ip-tv.dev/images/epg/1850.png?v1745396560" , Liberty Русфильм 4K
-#EXTGRP:Кино 4K
-http://ca.seetv.cc/play/1850/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xliberty-semejny" tvg-name="Liberty Семейный 4K" tvg-logo="https://ip-tv.dev/images/epg/1853.png?v1745396844" , Liberty Семейный 4K
 #EXTGRP:Кино 4K
 http://ca.seetv.cc/play/1853/983F158AABB587A/video.m3u8
@@ -2456,9 +2009,6 @@ http://ca.seetv.cc/play/1858/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xliberty-kub" tvg-name="Liberty Куб 4K" tvg-logo="https://ip-tv.dev/images/epg/1859.png?v1745397448" , Liberty Куб 4K
 #EXTGRP:Кино 4K
 http://ca.seetv.cc/play/1859/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xliberty-soyuz" tvg-name="Liberty Союз 4K" tvg-logo="https://ip-tv.dev/images/epg/1860.png?v1745397521" , Liberty Союз 4K
-#EXTGRP:Кино 4K
-http://ca.seetv.cc/play/1860/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xliberty-xxvek" tvg-name="Liberty XX век 4K" tvg-logo="https://ip-tv.dev/images/epg/1862.png?v1745397688" , Liberty XX век 4K
 #EXTGRP:Кино 4K
 http://ca.seetv.cc/play/1862/983F158AABB587A/video.m3u8
