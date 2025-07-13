@@ -1,0 +1,611 @@
+#EXTM3U catchup="flussonic"
+
+#EXTINF:0 tvg-id="Xpervy" tvg-name="Первый канал HD" tvg-logo="https://ip-tv.dev/epg/icon/pervyj.png"  tvg-rec="5" timeshift="5", Первый канал HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/73/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xpervy-kanal-eu" tvg-name="Первый канал Европа" tvg-logo="https://ip-tv.dev/images/ico/pervy.png"  tvg-rec="5" timeshift="5", Первый канал Европа
+#EXTGRP:Россия
+http://ca.seetv.cc/play/446/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xrossia1" tvg-name="Россия 1 HD" tvg-logo="https://ip-tv.dev/epg/icon/rossia-hd.png"  tvg-rec="5" timeshift="5", Россия 1 HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/173/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xtnt" tvg-name="ТНТ HD" tvg-logo="https://ip-tv.dev/epg/icon/tnt.png"  tvg-rec="5" timeshift="5", ТНТ HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/86/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xtnt4" tvg-name="ТНТ4 HD" tvg-logo="https://ip-tv.dev/epg/icon/tnt4.png"  tvg-rec="5" timeshift="5", ТНТ4 HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/687/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xntv-mir" tvg-name="НТВ Мир" tvg-logo="https://ip-tv.dev/epg/icon/ntv-mir.png"  tvg-rec="5" timeshift="5", НТВ Мир
+#EXTGRP:Россия
+http://ca.seetv.cc/play/627/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xntv" tvg-name="НТВ HD" tvg-logo="https://ip-tv.dev/epg/icon/ntv-white.png"  tvg-rec="5" timeshift="5", НТВ HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/220/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xntv-style" tvg-name="НТВ Стиль" tvg-logo="https://ip-tv.dev/epg/icon/ntv-style.png"  tvg-rec="5" timeshift="5", НТВ Стиль
+#EXTGRP:Россия
+http://ca.seetv.cc/play/786/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xtv3-ru" tvg-name="ТВ3 HD" tvg-logo="https://ip-tv.dev/images/ico/tv3-ru.png" , ТВ3 HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/519/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xvremia" tvg-name="Время" tvg-logo="https://ip-tv.dev/epg/icon/vremia.png"  tvg-rec="5" timeshift="5", Время
+#EXTGRP:Россия
+http://ca.seetv.cc/play/131/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xmoskva-24" tvg-name="Москва 24" tvg-logo="https://ip-tv.dev/epg/icon/moskva-24.png"  tvg-rec="5" timeshift="5", Москва 24
+#EXTGRP:Россия
+http://ca.seetv.cc/play/163/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xrentv" tvg-name="Рен ТВ HD" tvg-logo="https://ip-tv.dev/epg/icon/rentv.png"  tvg-rec="5" timeshift="5", Рен ТВ HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/111/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xsts" tvg-name="СТС HD" tvg-logo="https://ip-tv.dev/epg/icon/sts.png"  tvg-rec="5" timeshift="5", СТС HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/36/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xsts-love" tvg-name="СТС Love" tvg-logo="https://ip-tv.dev/epg/icon/sts-love.png"  tvg-rec="5" timeshift="5", СТС Love
+#EXTGRP:Россия
+http://ca.seetv.cc/play/284/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X5kanal-ru" tvg-name="Пятый Канал" tvg-logo="https://ip-tv.dev/epg/icon/5kanal-ru.png"  tvg-rec="5" timeshift="5", Пятый Канал
+#EXTGRP:Россия
+http://ca.seetv.cc/play/169/983F158AABB587A/video.m3u8
+#EXTINF:-1 tvg-id="Xkultura" tvg-name="Россия-Культура" tvg-logo="https://ip-tv.dev/epg/icon/rossia-k.png", Россия-Культура HD
+#EXTGRP:Россия
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:0 tvg-id="Xsarafan" tvg-name="Сарафан" tvg-logo="https://ip-tv.dev/_front/channel/300035.gif"  tvg-rec="5" timeshift="5", Сарафан
+#EXTGRP:Россия
+http://ca.seetv.cc/play/117/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xdozhd" tvg-name="Дождь" tvg-logo="https://ip-tv.dev/epg/icon/dozhd.png"  tvg-rec="5" timeshift="5", Дождь
+#EXTGRP:Россия
+http://ca.seetv.cc/play/988/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xrbk" tvg-name="РБК-ТВ" tvg-logo="https://ip-tv.dev/epg/icon/rbk.png"  tvg-rec="5" timeshift="5", РБК-ТВ
+#EXTGRP:Россия
+http://ca.seetv.cc/play/34/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xprnk-tv" tvg-name="Первый Российский Национальный канал" tvg-logo="https://ip-tv.dev/images/ico/prnk-tv.png" , Первый Российский Национальный канал
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5317/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xtvcentr" tvg-name="ТВЦ" tvg-logo="https://ip-tv.dev/images/ico/tvcentr.png"  tvg-rec="5" timeshift="5", ТВЦ
+#EXTGRP:Россия
+http://ca.seetv.cc/play/3/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xotr" tvg-name="ОТР" tvg-logo="https://ip-tv.dev/epg/icon/otr_ru.png"  tvg-rec="5" timeshift="5", ОТР
+#EXTGRP:Россия
+http://ca.seetv.cc/play/199/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xtvci" tvg-name="ТВЦ International" tvg-logo="https://ip-tv.dev/images/ico/tvcentr.png"  tvg-rec="5" timeshift="5", ТВЦ International
+#EXTGRP:Россия
+http://ca.seetv.cc/play/982/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xrtvi" tvg-name="RTVi" tvg-logo="https://ip-tv.dev/images/ico/rtvi.png"  tvg-rec="5" timeshift="5", RTVi
+#EXTGRP:Россия
+http://ca.seetv.cc/play/365/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xrtvi-arhiv" tvg-name="RTVi Retro" tvg-logo="https://ip-tv.dev/images/ico/rtviretro.png"  tvg-rec="5" timeshift="5", RTVi Retro
+#EXTGRP:Россия
+http://ca.seetv.cc/play/363/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xperec-int" tvg-name="Перец" tvg-logo="https://ip-tv.dev/epg/icon/perec.png"  tvg-rec="5" timeshift="5", Перец
+#EXTGRP:Россия
+http://ca.seetv.cc/play/484/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xpiatnica" tvg-name="Пятница HD" tvg-logo="https://ip-tv.dev/epg/icon/pyatnica.png"  tvg-rec="5" timeshift="5", Пятница HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/9930/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xsuper" tvg-name="Суббота" tvg-logo="https://ip-tv.dev/epg/icon/super.png"  tvg-rec="5" timeshift="5", Суббота
+#EXTGRP:Россия
+http://ca.seetv.cc/play/3685/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xnastoyaschee-vremia" tvg-name="Настоящее время HD" tvg-logo="https://ip-tv.dev/images/ico/nastoiaschee-vremia.png"  tvg-rec="5" timeshift="5", Настоящее время HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/6202/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xyu" tvg-name="Ю ТВ" tvg-logo="https://ip-tv.dev/epg/icon/yu.png"  tvg-rec="5" timeshift="5", Ю ТВ
+#EXTGRP:Россия
+http://ca.seetv.cc/play/298/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xacb-tv" tvg-name="ACB TV" tvg-logo="https://ip-tv.dev/images/ico/acb-tv.png" , ACB TV
+#EXTGRP:Россия
+http://ca.seetv.cc/play/127/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xmir" tvg-name="Мир" tvg-logo="https://ip-tv.dev/epg/icon/mir.png", Мир HD
+#EXTGRP:Россия
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:0 tvg-id="Xzvezda" tvg-name="Звезда HD" tvg-logo="https://ip-tv.dev/epg/icon/zvezda.png"  tvg-rec="5" timeshift="5", Звезда HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/170/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xzvezda-plus" tvg-name="Звезда Плюс" tvg-logo="https://ip-tv.dev/images/ico/zvezda-plus.png" , Звезда Плюс
+#EXTGRP:Россия
+http://ca.seetv.cc/play/197/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xdomashny" tvg-name="Домашний HD" tvg-logo="https://ip-tv.dev/epg/icon/domashny.png" , Домашний HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/275/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xkrym24" tvg-name="КРЫМ 24" tvg-logo="https://ip-tv.dev/epg/icon/krym24.png"  tvg-rec="5" timeshift="5", КРЫМ 24
+#EXTGRP:Россия
+http://ca.seetv.cc/play/3904/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xpervy-krymsky" tvg-name="Первый Крымский" tvg-logo="https://ip-tv.dev/epg/icon/pervy-krymsky.png"  tvg-rec="5" timeshift="5", Первый Крымский
+#EXTGRP:Россия
+http://ca.seetv.cc/play/3779/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xnts-sevastopol" tvg-name="НТС Севастополь" tvg-logo="https://ip-tv.dev/images/ico/nts-sevastopol.png" , НТС Севастополь
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5310/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xmillet" tvg-name="Миллет" tvg-logo="https://ip-tv.dev/images/ico/millet.png" , Миллет
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5315/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xewpatorya24" tvg-name="Евпатория 24" tvg-logo="https://ip-tv.dev/images/ico/ewpatorya24.png" , Евпатория 24
+#EXTGRP:Россия
+http://ca.seetv.cc/play/985/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xpervy-sevastopolsky" tvg-name="Первый Севастопольский" tvg-logo="https://ip-tv.dev/images/ico/pervy-sevastopolsky.png" , Первый Севастопольский
+#EXTGRP:Россия
+http://ca.seetv.cc/play/984/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xsimfer24" tvg-name="Симферополь 24" tvg-logo="https://ip-tv.dev/images/ico/simfer24.png" , Симферополь 24
+#EXTGRP:Россия
+http://ca.seetv.cc/play/981/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xlegendarny24" tvg-name="Легендарный 24 HD" tvg-logo="https://ip-tv.dev/images/ico/legendarny24.png" , Легендарный 24 HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/980/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xsevastopol-24" tvg-name="Севастополь 24 HD" tvg-logo="https://ip-tv.dev/images/ico/sevastopol-24.png" , Севастополь 24 HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/955/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xche" tvg-name="Че!" tvg-logo="https://ip-tv.dev/epg/icon/che.png"  tvg-rec="5" timeshift="5", Че!
+#EXTGRP:Россия
+http://ca.seetv.cc/play/109/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xrossia-24" tvg-name="Россия-24" tvg-logo="https://ip-tv.dev/epg/icon/rossia24.png"  tvg-rec="5" timeshift="5", Россия-24
+#EXTGRP:Россия
+http://ca.seetv.cc/play/49/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xrtr-planeta-eu" tvg-name="РТР Планета СНГ" tvg-logo="https://ip-tv.dev/images/ico/rtr-planeta.png"  tvg-rec="5" timeshift="5", Планета РТР
+#EXTGRP:Россия
+http://ca.seetv.cc/play/353/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xdoverie" tvg-name="Москва Доверие" tvg-logo="https://ip-tv.dev/epg/icon/doverie.png"  tvg-rec="5" timeshift="5", Москва Доверие
+#EXTGRP:Россия
+http://ca.seetv.cc/play/321/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xvmeste-rf" tvg-name="ВМЕСТЕ-РФ" tvg-logo="https://ip-tv.dev/epg/icon/vmeste-rf.png"  tvg-rec="5" timeshift="5", ВМЕСТЕ-РФ
+#EXTGRP:Россия
+http://ca.seetv.cc/play/323/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xizvestia" tvg-name="Известия HD" tvg-logo="https://ip-tv.dev/images/ico/izvestia.png" , Известия HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/3796/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xsolovjinypomiot" tvg-name="Соловьев.Live" tvg-logo="https://ip-tv.dev/images/ico/solovjinypomiot.png" , Соловьев.Live
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5343/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xsvoyo-tv-stavropol" tvg-name="Своё ТВ Ставрополь" tvg-logo="https://ip-tv.dev/images/ico/svoyo.png" , Своё ТВ Ставрополь
+#EXTGRP:Россия
+http://ca.seetv.cc/play/3788/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xkrasnaya-linia" tvg-name="Красная линия" tvg-logo="https://ip-tv.dev/images/ico/krasnaya-linia.png" , Красная линия
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5319/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xrezonans" tvg-name="Резонанс ТВ" tvg-logo="https://ip-tv.dev/images/ico/rezonans.png" , Резонанс ТВ
+#EXTGRP:Россия
+http://ca.seetv.cc/play/979/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="News Front", News Front
+#EXTGRP:Россия
+http://ca.seetv.cc/play/51023/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xotv-eburg" tvg-name="ОТВ Екатеринбург" tvg-logo="https://ip-tv.dev/images/ico/otv-eburg.png" , ОТВ Екатеринбург
+#EXTGRP:Россия
+http://ca.seetv.cc/play/1778/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xbelgorod24" tvg-name="Белгород 24" tvg-logo="https://ip-tv.dev/images/ico/belgorod24.png" , Белгород 24
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5302/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xastraxan24" tvg-name="Астрахань 24" tvg-logo="https://ip-tv.dev/images/ico/astraxan24.png" , Астрахань 24
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5303/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xarxyz24" tvg-name="Архыз 24" tvg-logo="https://ip-tv.dev/images/ico/arxyz24.png" , Архыз 24
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5304/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xxuzur-tv" tvg-name="Хузур ТВ" tvg-logo="https://ip-tv.dev/images/ico/xuzur-tv.png" , Хузур ТВ
+#EXTGRP:Россия
+http://ca.seetv.cc/play/983/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xtamyr" tvg-name="Тамыр" tvg-logo="https://ip-tv.dev/images/ico/tamyr.png" , Тамыр
+#EXTGRP:Россия
+http://ca.seetv.cc/play/971/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xkuraj" tvg-name="Курай" tvg-logo="https://ip-tv.dev/images/ico/kuraj.png" , Курай
+#EXTGRP:Россия
+http://ca.seetv.cc/play/970/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xtrk-ryazan" tvg-name="ТКР Рязань" tvg-logo="https://ip-tv.dev/images/ico/trk-ryazan.png" , ТКР Рязань
+#EXTGRP:Россия
+http://ca.seetv.cc/play/1775/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xldpr-tv" tvg-name="ЛДПР ТВ" tvg-logo="https://ip-tv.dev/images/ico/ldpr-tv.png" , ЛДПР ТВ
+#EXTGRP:Россия
+http://ca.seetv.cc/play/974/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xsochi-live" tvg-name="Sochi Live" tvg-logo="https://ip-tv.dev/images/ico/sochi-live.png" , Sochi Live
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5305/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xbelros" tvg-name="БелРос HD" tvg-logo="https://ip-tv.dev/images/ico/belros.png" , БелРос HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5306/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xtv-guberniya" tvg-name="TV Губерния" tvg-logo="https://ip-tv.dev/images/ico/tv-guberniya.png" , TV Губерния
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5307/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xnika-tv" tvg-name="Ника ТВ" tvg-logo="https://ip-tv.dev/images/ico/nika-tv.png" , Ника ТВ
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5308/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xosetia-iryston" tvg-name="Осетия-Ирыстон" tvg-logo="https://ip-tv.dev/images/ico/osetia-iryston.png" , Осетия-Ирыстон
+#EXTGRP:Россия
+http://ca.seetv.cc/play/307/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xntm" tvg-name="НТМ" tvg-logo="https://ip-tv.dev/images/ico/ntm.png" , НТМ
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5309/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="ТРК 555", ТРК 555
+#EXTGRP:Россия
+http://ca.seetv.cc/play/973/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xotkryty-mir" tvg-name="Открытый мир" tvg-logo="https://ip-tv.dev/images/ico/otkryty-mir.png" , Открытый мир
+#EXTGRP:Россия
+http://ca.seetv.cc/play/972/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Мой мир", Мой мир
+#EXTGRP:Россия
+http://ca.seetv.cc/play/954/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xpervy-yaroslavsky" tvg-name="Первый Ярославский" tvg-logo="https://ip-tv.dev/images/ico/pervy-yaroslavsky.png" , Первый Ярославский
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5313/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xpervy-rostovsky" tvg-name="Первый Ростовский" tvg-logo="https://ip-tv.dev/images/ico/1rostov.png" , Первый Ростовский
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5314/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xmtv-volgograd" tvg-name="МТВ Волгоград" tvg-logo="https://ip-tv.dev/images/ico/mtv-volgograd.png" , МТВ Волгоград
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5318/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X49kanal" tvg-name="49 канал" tvg-logo="https://ip-tv.dev/images/ico/49kanal.png" , 49 канал
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5323/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xaist" tvg-name="Аист" tvg-logo="https://ip-tv.dev/images/ico/aist.png" , Аист
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5324/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X12-omsk" tvg-name="12 канал Омск" tvg-logo="https://ip-tv.dev/images/ico/12-omsk.png" , 12 канал Омск
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5325/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xkatun-24" tvg-name="Катунь 24" tvg-logo="https://ip-tv.dev/images/ico/katun-24.png" , Катунь 24
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5326/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xenisey-region" tvg-name="Енисей регион" tvg-logo="https://ip-tv.dev/images/ico/enisey-region.png" , Енисей регион
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5327/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xs1-surgut" tvg-name="С1 Сургут" tvg-logo="https://ip-tv.dev/images/ico/s1-surgut.png" , С1 Сургут
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5328/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X86-surgut" tvg-name="86 Сургут" tvg-logo="https://ip-tv.dev/images/ico/86-surgut.png" , 86 Сургут
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5329/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xvolga" tvg-name="Волга" tvg-logo="https://ip-tv.dev/images/ico/volga.png" , Волга
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5331/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xvremia-n" tvg-name="Волга 24" tvg-logo="https://ip-tv.dev/images/ico/vremia-n.png" , Волга 24
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5332/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xvetta24" tvg-name="Ветта 24" tvg-logo="https://ip-tv.dev/images/ico/vetta24.png" , Ветта 24
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5344/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xkolyma-plus" tvg-name="Колыма-Плюс" tvg-logo="https://ip-tv.dev/images/ico/kolyma-plus.png" , Колыма-Плюс
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5346/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Телеплюс" tvg-logo="https://ip-tv.dev/images/ico/tplus.png" , Телеплюс
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5347/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xbst" tvg-name="БСТ" tvg-logo="https://ip-tv.dev/images/ico/bst.png" , БСТ
+#EXTGRP:Россия
+http://ca.seetv.cc/play/969/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xschelkovo" tvg-name="Щёлково" tvg-logo="https://ip-tv.dev/images/ico/schelkovo.png" , Щёлково
+#EXTGRP:Россия
+http://ca.seetv.cc/play/958/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xaris24" tvg-name="Арис 24" tvg-logo="https://ip-tv.dev/images/ico/aris24.png" , Арис 24
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5349/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xtnv-planeta" tvg-name="ТНВ-Планета" tvg-logo="https://ip-tv.dev/images/ico/tnv.png" , ТНВ-Планета
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5350/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xtnv" tvg-name="ТНВ-Татарстан" tvg-logo="https://ip-tv.dev/images/ico/tnv-tat.png" , ТНВ-Татарстан
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5351/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xnext-tv" tvg-name="NEXT-TV" tvg-logo="https://ip-tv.dev/images/ico/next-tv.png" , NEXT-TV
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5352/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xmordovia-24" tvg-name="Мордовия 24" tvg-logo="https://ip-tv.dev/images/ico/mordovia-24.png" , Мордовия 24
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5353/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xntrk-ingushetia" tvg-name="НТРК Ингушетия" tvg-logo="https://ip-tv.dev/images/ico/ntrk-ingushetia.png" , НТРК Ингушетия
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5354/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xtvk-krasnoyarsk" tvg-name="ТВК Красноярск" tvg-logo="https://ip-tv.dev/images/ico/tvk-krasnoyarsk.png" , ТВК Красноярск
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5356/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xexpress" tvg-name="Экспресс" tvg-logo="https://ip-tv.dev/images/ico/express.png" , Экспресс
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5357/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xvestnik-nadyma" tvg-name="Вестник Надыма" tvg-logo="https://ip-tv.dev/images/ico/vestnik-nadyma.png" , Вестник Надыма
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5358/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="Xtv1000-russkoe-kino" tvg-name="Viju TV1000 Русское кино HD" tvg-logo="https://ip-tv.dev/images/ico/viju-tv1000-russkoe-kino.png"  tvg-rec="5" timeshift="5", Viju TV1000 Русское кино HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/489/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xrukino-hd" tvg-name="РуКино HD" tvg-logo="https://ip-tv.dev/images/epg/1754.png?v1743767260"  tvg-rec="5" timeshift="5", РуКино HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/1754/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xnashe-lubimoe" tvg-name="Наше любимое HD" tvg-logo="https://ip-tv.dev/epg/icon/nashe-lubimoe.png"  tvg-rec="5" timeshift="5", Наше любимое HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/499/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xnash-kinopokaz" tvg-name="Наш Кинопоказ HD" tvg-logo="https://ip-tv.dev/epg/icon/nash-kinopokaz.png"  tvg-rec="5" timeshift="5", Наш Кинопоказ HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/4475/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xnashe-muzhskoe" tvg-name="Наше Мужское HD" tvg-logo="https://ip-tv.dev/images/ico/nashe-muzhskoe-hd.png"  tvg-rec="5" timeshift="5", Наше Мужское HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/4777/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xkion-xit" tvg-name="KION Хит" tvg-logo="https://ip-tv.dev/images/ico/kion-xit.png"  tvg-rec="5" timeshift="5", KION Хит
+#EXTGRP:Россия
+http://ca.seetv.cc/play/1654/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xpro-lyubov" tvg-name="Про Любовь HD" tvg-logo="https://ip-tv.dev/images/ico/pro-lyubov.png"  tvg-rec="5" timeshift="5", Про Любовь HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/4778/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xkinokomedia" tvg-name="Кинокомедия" tvg-logo="https://ip-tv.dev/epg/icon/kinokomedia.png"  tvg-rec="5" timeshift="5", Кинокомедия
+#EXTGRP:Россия
+http://ca.seetv.cc/play/3738/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xkriminalnoe-hd" tvg-name="Криминальное HD" tvg-logo="https://ip-tv.dev/images/ico/kriminalnoe-hd.png"  tvg-rec="5" timeshift="5", Криминальное HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/7308/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xussr-premieregroup" tvg-name="USSR HD" tvg-logo="https://ip-tv.dev/images/epg/1758.png?v1743767360"  tvg-rec="5" timeshift="5", USSR HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/1758/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xntv-serial" tvg-name="НТВ Сериал" tvg-logo="https://ip-tv.dev/epg/icon/ntv-serial.png"  tvg-rec="5" timeshift="5", НТВ Сериал
+#EXTGRP:Россия
+http://ca.seetv.cc/play/784/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xntv-xit" tvg-name="НТВ Хит" tvg-logo="https://ip-tv.dev/images/ico/ntv-xit.png"  tvg-rec="5" timeshift="5", НТВ Хит
+#EXTGRP:Россия
+http://ca.seetv.cc/play/3781/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xrussky-roman" tvg-name="Русский роман" tvg-logo="https://ip-tv.dev/epg/icon/russky-roman.png"  tvg-rec="5" timeshift="5", Русский роман
+#EXTGRP:Россия
+http://ca.seetv.cc/play/172/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xrussky-illuzion" tvg-name="Русский Иллюзион" tvg-logo="https://ip-tv.dev/epg/icon/russky-illuzion.png"  tvg-rec="5" timeshift="5", Русский Иллюзион
+#EXTGRP:Россия
+http://ca.seetv.cc/play/201/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xnashe-novoe-kino" tvg-name="Наше новое кино" tvg-logo="https://ip-tv.dev/epg/icon/nashe-novoe-kino.png"  tvg-rec="5" timeshift="5", Наше новое кино
+#EXTGRP:Россия
+http://ca.seetv.cc/play/35/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xsov-kinklass" tvg-name="Советское кино" tvg-logo="https://ip-tv.dev/images/ico/sov-kinklass.png"  tvg-rec="5" timeshift="5", Советское кино
+#EXTGRP:Россия
+http://ca.seetv.cc/play/9926/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xrussky-bestseller" tvg-name="Русский бестселлер" tvg-logo="https://ip-tv.dev/epg/icon/russky-bestseller.png"  tvg-rec="5" timeshift="5", Русский бестселлер
+#EXTGRP:Россия
+http://ca.seetv.cc/play/281/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xrussky-detektiv" tvg-name="Русский детектив" tvg-logo="https://ip-tv.dev/epg/icon/rus-detektiv.png"  tvg-rec="5" timeshift="5", Русский детектив
+#EXTGRP:Россия
+http://ca.seetv.cc/play/282/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xbcu-russian" tvg-name="BCU Russian HD" tvg-logo="https://ip-tv.dev/images/ico/bcu-russian.png"  tvg-rec="5" timeshift="5", BCU Russian HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/7111/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xbcu-svaty" tvg-name="BCU СВАТЫ HD" tvg-logo="https://ip-tv.dev/images/ico/bcu-svaty.png"  tvg-rec="5" timeshift="5", BCU СВАТЫ HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/7127/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xbcu-ruserial" tvg-name="BCU Ruserial HD" tvg-logo="https://ip-tv.dev/images/ico/bcu-ruserial.png"  tvg-rec="5" timeshift="5", BCU Ruserial HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/7119/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xbcu-sssr" tvg-name="BCU СССР HD" tvg-logo="https://ip-tv.dev/images/ico/bcu-sssr-hd.png"  tvg-rec="5" timeshift="5", BCU СССР HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/7120/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X9995" tvg-name="Kinoshka Russian HD" tvg-logo="https://ip-tv.dev/images/ico/kinoshka-russian.png"  tvg-rec="5" timeshift="5", Kinoshka Russian HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/9995/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xfresh-soviet" tvg-name="Fresh Soviet" tvg-logo="https://ip-tv.dev/images/ico/fresh/soviet.png"  tvg-rec="5" timeshift="5", Fresh Soviet
+#EXTGRP:Россия
+http://ca.seetv.cc/play/1637/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xfresh-russian" tvg-name="Fresh Russian" tvg-logo="https://ip-tv.dev/images/ico/fresh/russian.png"  tvg-rec="5" timeshift="5", Fresh Russian
+#EXTGRP:Россия
+http://ca.seetv.cc/play/1649/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X36168" tvg-name="KBC-Russian Комедия HD" tvg-logo="https://ip-tv.dev/images/ico/36168-6009d4d03d8ee.png"  tvg-rec="5" timeshift="5", KBC-Russian Комедия HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/8817/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X36506" tvg-name="KBC-Страна СССР" tvg-logo="https://ip-tv.dev/images/ico/36506-6009d7a51db00.png"  tvg-rec="5" timeshift="5", KBC-Страна СССР
+#EXTGRP:Россия
+http://ca.seetv.cc/play/8824/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xyosso-rusfilm" tvg-name="YOSSO TV Русские фильмы" tvg-logo="https://ip-tv.dev/images/ico/yosso-rusfilm.png"  tvg-rec="5" timeshift="5", YOSSO TV Русские фильмы
+#EXTGRP:Россия
+http://ca.seetv.cc/play/8776/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xyosso-sovfilm" tvg-name="YOSSO TV Советские фильмы" tvg-logo="https://ip-tv.dev/images/ico/yosso-sovfilm.png"  tvg-rec="5" timeshift="5", YOSSO TV Советские фильмы
+#EXTGRP:Россия
+http://ca.seetv.cc/play/8775/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xmagic-russian" tvg-name="Magic Russian" tvg-logo="https://ip-tv.dev/images/ico/magic-russian.png"  tvg-rec="5" timeshift="5", Magic Russian
+#EXTGRP:Россия
+http://ca.seetv.cc/play/6683/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xcineman-rukino" tvg-name="CineMan РуКино" tvg-logo="https://ip-tv.dev/images/ico/cineman-rukino.png"  tvg-rec="5" timeshift="5", CineMan РуКино
+#EXTGRP:Россия
+http://ca.seetv.cc/play/13012/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xminimax-newfilmru" tvg-name="MM NewFilm RU HD" tvg-logo="https://ip-tv.dev/images/ico/minimax-newfilmru.png"  tvg-rec="5" timeshift="5", MM NewFilm RU HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/6008/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xminimax-ussr-1941-1945" tvg-name="MM USSR 1941-1945 HD" tvg-logo="https://ip-tv.dev/images/ico/minimax-ussr-1941-1945.png"  tvg-rec="5" timeshift="5", MM USSR 1941-1945 HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/6010/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xminimax-ussr-detektiv" tvg-name="MM USSR Детектив HD" tvg-logo="https://ip-tv.dev/images/ico/minimax-ussr-detektiv.png"  tvg-rec="5" timeshift="5", MM USSR Детектив HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/6011/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xminimax-ussr-komedija" tvg-name="MM USSR Комедия HD" tvg-logo="https://ip-tv.dev/images/ico/minimax-ussr-komedija.png"  tvg-rec="5" timeshift="5", MM USSR Комедия HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/6012/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xminimax-ussr-prikluchenija" tvg-name="MM USSR Приключения HD" tvg-logo="https://ip-tv.dev/images/ico/minimax-ussr-prikluchenija.png"  tvg-rec="5" timeshift="5", MM USSR Приключения HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/6013/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xminimax-ussr-fantastika" tvg-name="MM USSR Драма HD" tvg-logo="https://ip-tv.dev/images/ico/minimax-ussr-fantastika.png"  tvg-rec="5" timeshift="5", MM USSR Драма HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/6015/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xminimax-roskino" tvg-name="MM Роскино HD" tvg-logo="https://ip-tv.dev/images/ico/minimax-roskino.png"  tvg-rec="5" timeshift="5", MM Роскино HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/6035/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="UZ-Союз-Фильмы HD", UZ-Союз-Фильмы HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/6080/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xliberty-rusfilm	" tvg-name="Liberty Русфильм 4K" tvg-logo="https://ip-tv.dev/images/epg/1850.png?v1745396560" , Liberty Русфильм 4K
+#EXTGRP:Россия
+http://ca.seetv.cc/play/1850/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xliberty-soyuz" tvg-name="Liberty Союз 4K" tvg-logo="https://ip-tv.dev/images/epg/1860.png?v1745397521" , Liberty Союз 4K
+#EXTGRP:Россия
+http://ca.seetv.cc/play/1860/983F158AABB587A/video.m3u8
+#EXTINF:-1 tvg-id="",Смотрим
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="Xrgvk-dagestan" tvg-name="РГВК Дагестан" tvg-logo="https://ip-tv.dev/images/ico/rgvk-dagestan.png" , РГВК Дагестан
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5359/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xbrianskaya-gubernia" tvg-name="Брянская Губерния" tvg-logo="https://ip-tv.dev/images/ico/brianskaya-gubernia.png" , Брянская Губерния
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5355/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xgrozny" tvg-name="Грозный" tvg-logo="https://ip-tv.dev/images/ico/grozny.png" , Грозный
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5360/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xteotv" tvg-name="Тео-ТВ" tvg-logo="https://ip-tv.dev/images/ico/teotv.png" , Тео-ТВ
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5361/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xevrasia" tvg-name="Евразия" tvg-logo="https://ip-tv.dev/images/ico/evrasia.png" , Евразия
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5363/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xnts-irkutsk" tvg-name="НТС Иркутск" tvg-logo="https://ip-tv.dev/images/ico/nts-irkutsk.png" , НТС Иркутск
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5364/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xtv-in" tvg-name="ТВ-ИН (Магнитогорск)" tvg-logo="https://ip-tv.dev/images/ico/tv-in.png" , ТВ-ИН (Магнитогорск)
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5365/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xsaxa" tvg-name="НВК Саха" tvg-logo="https://ip-tv.dev/images/ico/saxa.png" , НВК Саха
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5366/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xalmazny-kray" tvg-name="Алмазный край" tvg-logo="https://ip-tv.dev/images/ico/almazny-kray.png" , Алмазный край
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5367/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xramenskoe-tv" tvg-name="Раменское ТВ" tvg-logo="https://ip-tv.dev/images/ico/ramenskoe-tv.png" , Раменское ТВ
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5369/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xnovy-vek-tambov" tvg-name="Новый век (Тамбов)" tvg-logo="https://ip-tv.dev/images/ico/novy-vek-tambov.png" , Новый век (Тамбов)
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5370/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xsever" tvg-name="Север" tvg-logo="https://ip-tv.dev/images/ico/sever.png" , Север
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5371/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xsalam" tvg-name="Салям" tvg-logo="https://ip-tv.dev/images/ico/salam.png" , Салям
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5372/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xcentr-kraskoyarsk" tvg-name="Центр Красноярск" tvg-logo="https://ip-tv.dev/images/ico/centr-kraskoyarsk.png" , Центр Красноярск
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5373/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xobkom" tvg-name="Обком" tvg-logo="https://ip-tv.dev/images/ico/obkom.png" , Обком
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5375/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xdzenzhinsk-tv" tvg-name="Дзержинск ТВ" tvg-logo="https://ip-tv.dev/images/ico/dzenzhinsk-tv.png" , Дзержинск ТВ
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5376/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xyakutia24" tvg-name="Якутия 24" tvg-logo="https://ip-tv.dev/images/ico/yakutia24.png" , Якутия 24
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5380/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xprima" tvg-name="Прима" tvg-logo="https://ip-tv.dev/images/ico/prima.png" , Прима
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5382/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xtivikom" tvg-name="Тивиком HD" tvg-logo="https://ip-tv.dev/images/ico/tivikom.png" , Тивиком HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5384/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xgis-samara	" tvg-name="ГИС Самара" tvg-logo="https://ip-tv.dev/images/ico/gis-samara.png" , ГИС Самара
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5386/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xastvus" tvg-name="АСТВ Южно-Сахалинск" tvg-logo="https://ip-tv.dev/images/ico/astvus.png" , АСТВ Южно-Сахалинск
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5387/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="ВТК 41 Аргус" tvg-logo="https://ip-tv.dev/images/ico/vtk41.png" , ВТК 41 Аргус
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5388/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xmaydan" tvg-name="Майдан" tvg-logo="https://ip-tv.dev/images/ico/maydan.png" , Майдан
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5410/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xxuzur-tv" tvg-name="Хузур ТВ" tvg-logo="https://ip-tv.dev/images/ico/xuzur-tv.png" , Хузур ТВ
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5433/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xteledom" tvg-name="Теледом HD" tvg-logo="https://ip-tv.dev/images/ico/teledom.png" , Теледом HD
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5342/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Таврия ТВ Херсон" tvg-logo="https://ip-tv.dev/images/ico/tavriya-tv.png" , Таврия ТВ Херсон
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5436/983F158AABB587A/video.m3u8
+#EXTINF:-1 tvg-id="TNTMusic.ru",ТНТ Music
+https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",Первый Музыкальный HD
+http://rtmp.one.by:2200
+#EXTINF:-1 group-title="Музыка",Первый Музыкальный HD
+http://rtmp.one.by:1300
+#EXTINF:-1 tvg-id="MuzTV.ru",МузТВ
+https://streaming.televizor-24-tochka.ru/live/618.m3u8
+#EXTINF:0 tvg-id="shopping-live" tvg-name="Shopping Live" tvg-logo="https://ip-tv.dev/images/ico/shopping-live.png" , Shopping Live
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5339/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Витрина" tvg-logo="https://ip-tv.dev/images/ico/vitrina.png" , Витрина
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5340/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xpervy" tvg-name="Первый канал" tvg-logo="https://ip-tv.dev/images/ico/pervysd.png"  tvg-rec="5" timeshift="5", Первый канал
+#EXTGRP:Россия
+http://ca.seetv.cc/play/243/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xpervy-pl2" tvg-name="Первый канал +2" tvg-logo="https://ip-tv.dev/epg/icon/pervyj.png"  tvg-rec="5" timeshift="5", Первый канал +2
+#EXTGRP:Россия
+http://ca.seetv.cc/play/701/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xpervy-pl4" tvg-name="Первый канал +4" tvg-logo="https://ip-tv.dev/epg/icon/pervyj.png"  tvg-rec="5" timeshift="5", Первый канал +4
+#EXTGRP:Россия
+http://ca.seetv.cc/play/731/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xpervy-pl4" tvg-name="Первый HD (+4)" tvg-logo="https://ip-tv.dev/epg/icon/pervyj.png" , Первый HD (+4)
+#EXTGRP:Россия
+http://ca.seetv.cc/play/74/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xpervy-pl6" tvg-name="Первый канал +6" tvg-logo="https://ip-tv.dev/epg/icon/pervyj.png"  tvg-rec="5" timeshift="5", Первый канал +6
+#EXTGRP:Россия
+http://ca.seetv.cc/play/751/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xrossia1" tvg-name="Россия 1" tvg-logo="https://ip-tv.dev/epg/icon/rossia1.png"  tvg-rec="5" timeshift="5", Россия 1
+#EXTGRP:Россия
+http://ca.seetv.cc/play/2/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xrossia1-pl2" tvg-name="Россия 1 +2" tvg-logo="https://ip-tv.dev/epg/icon/rossia1.png"  tvg-rec="5" timeshift="5", Россия 1 +2
+#EXTGRP:Россия
+http://ca.seetv.cc/play/702/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xrossia1-pl4" tvg-name="Россия 1 +4" tvg-logo="https://ip-tv.dev/epg/icon/rossia1.png"  tvg-rec="5" timeshift="5", Россия 1 +4
+#EXTGRP:Россия
+http://ca.seetv.cc/play/732/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xrossia1-pl6" tvg-name="Россия 1 +6" tvg-logo="https://ip-tv.dev/epg/icon/rossia1.png"  tvg-rec="5" timeshift="5", Россия 1 +6
+#EXTGRP:Россия
+http://ca.seetv.cc/play/752/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xtnt" tvg-name="ТНТ" tvg-logo="https://ip-tv.dev/epg/icon/tnt.png" , ТНТ
+#EXTGRP:Россия
+http://ca.seetv.cc/play/92/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xtnt-pl2" tvg-name="ТНТ (+2)" tvg-logo="https://ip-tv.dev/epg/icon/tnt.png"  tvg-rec="5" timeshift="5", ТНТ (+2)
+#EXTGRP:Россия
+http://ca.seetv.cc/play/719/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xtnt-pl4" tvg-name="ТНТ (+4)" tvg-logo="https://ip-tv.dev/epg/icon/tnt.png"  tvg-rec="5" timeshift="5", ТНТ (+4)
+#EXTGRP:Россия
+http://ca.seetv.cc/play/749/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xtnt-pl7" tvg-name="ТНТ (+7)" tvg-logo="https://ip-tv.dev/epg/icon/tnt.png"  tvg-rec="5" timeshift="5", ТНТ (+7)
+#EXTGRP:Россия
+http://ca.seetv.cc/play/769/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xtnt4" tvg-name="ТНТ4" tvg-logo="https://ip-tv.dev/epg/icon/tnt4.png"  tvg-rec="5" timeshift="5", ТНТ4
+#EXTGRP:Россия
+http://ca.seetv.cc/play/41/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xntv" tvg-name="НТВ" tvg-logo="https://ip-tv.dev/epg/icon/ntv-white.png" , НТВ
+#EXTGRP:Россия
+http://ca.seetv.cc/play/5333/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xntv-pl2" tvg-name="НТВ (+2)" tvg-logo="https://ip-tv.dev/epg/icon/ntv-white.png"  tvg-rec="5" timeshift="5", НТВ (+2)
+#EXTGRP:Россия
+http://ca.seetv.cc/play/704/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xntv-pl4" tvg-name="НТВ (+4)" tvg-logo="https://ip-tv.dev/images/ico/ntv-pl4.png"  tvg-rec="5" timeshift="5", НТВ (+4)
+#EXTGRP:Россия
+http://ca.seetv.cc/play/614/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xrentv" tvg-name="Рен ТВ" tvg-logo="https://ip-tv.dev/epg/icon/rentv.png" , Рен ТВ
+#EXTGRP:Россия
+http://ca.seetv.cc/play/258/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xrentv-pl2" tvg-name="Рен ТВ (+2)" tvg-logo="https://ip-tv.dev/epg/icon/rentv.png"  tvg-rec="5" timeshift="5", Рен ТВ (+2)
+#EXTGRP:Россия
+http://ca.seetv.cc/play/711/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xsts" tvg-name="СТС" tvg-logo="https://ip-tv.dev/epg/icon/sts.png"  tvg-rec="5" timeshift="5", СТС
+#EXTGRP:Россия
+http://ca.seetv.cc/play/8/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xsts-pl2" tvg-name="СТС (+2)" tvg-logo="https://ip-tv.dev/epg/icon/sts.png"  tvg-rec="5" timeshift="5", СТС (+2)
+#EXTGRP:Россия
+http://ca.seetv.cc/play/713/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xsts-pl4" tvg-name="СТС (+4)" tvg-logo="https://ip-tv.dev/epg/icon/sts.png"  tvg-rec="5" timeshift="5", СТС (+4)
+#EXTGRP:Россия
+http://ca.seetv.cc/play/743/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xsts-pl7" tvg-name="СТС (+7)" tvg-logo="https://ip-tv.dev/epg/icon/sts.png"  tvg-rec="5" timeshift="5", СТС (+7)
+#EXTGRP:Россия
+http://ca.seetv.cc/play/763/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xpiatnica" tvg-name="Пятница" tvg-logo="https://ip-tv.dev/epg/icon/pyatnica.png"  tvg-rec="5" timeshift="5", Пятница
+#EXTGRP:Россия
+http://ca.seetv.cc/play/9/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xmir" tvg-name="Мир" tvg-logo="https://ip-tv.dev/epg/icon/mir.png"  tvg-rec="5" timeshift="5", Мир
+#EXTGRP:Россия
+http://ca.seetv.cc/play/118/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xkultura" tvg-name="Россия-Культура" tvg-logo="https://ip-tv.dev/epg/icon/rossia-k.png"  tvg-rec="5" timeshift="5", Россия-Культура
+#EXTGRP:Россия
+http://ca.seetv.cc/play/59/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xzvezda" tvg-name="Звезда" tvg-logo="https://ip-tv.dev/epg/icon/zvezda.png" , Звезда
+#EXTGRP:Россия
+http://ca.seetv.cc/play/148/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xzvezda-pl2" tvg-name="Звезда +2" tvg-logo="https://ip-tv.dev/images/ico/zvezda-pl2.png" , Звезда +2
+#EXTGRP:Россия
+http://ca.seetv.cc/play/151/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xdomashny" tvg-name="Домашний" tvg-logo="https://ip-tv.dev/epg/icon/domashny.png"  tvg-rec="5" timeshift="5", Домашний
+#EXTGRP:Россия
+http://ca.seetv.cc/play/115/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xdomashny-pl4" tvg-name="Домашний +4" tvg-logo="https://ip-tv.dev/images/ico/domashny-pl4.png" , Домашний +4
+#EXTGRP:Россия
+http://ca.seetv.cc/play/130/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xdomashny-pl2" tvg-name="Домашний +2" tvg-logo="https://ip-tv.dev/images/ico/domashny-pl2.png" , Домашний +2
+#EXTGRP:Россия
+http://ca.seetv.cc/play/128/983F158AABB587A/video.m3u8
