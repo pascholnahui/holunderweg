@@ -1,0 +1,33 @@
+#EXTM3U catchup="flussonic"
+
+#EXTINF:0 tvg-id="One TERRA HD" tvg-name="One Terra HD" tvg-logo="https://ip-tv.dev/images/epg/855.png?v1743761114" , One Terra
+#EXTGRP:Deutsch
+http://gr.seetv.cc/play/855/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="XPLORE HD" tvg-name="XPLORE HD" tvg-logo="https://ip-tv.dev/images/epg/857.png?v1743761165" , Xplore
+#EXTGRP:Deutsch
+http://gr.seetv.cc/play/857/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="Hip Trips" tvg-name="Hip Trips HD" tvg-logo="https://ip-tv.dev/images/epg/723.png?v1743762257" , Hip Trips HD
+#EXTGRP:Deutsch
+http://gr.seetv.cc/play/723/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="WEIDWERK" tvg-name="WAIDWERK" tvg-logo="https://ip-tv.dev/images/epg/741.png?v1743762325" , WAIDWERK
+#EXTGRP:Deutsch
+http://gr.seetv.cc/play/741/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-name="Crime Time HD" tvg-logo="https://ip-tv.dev/images/epg/840.png?v1743761586" , Crime Time
+#EXTGRP:Deutsch
+http://gr.seetv.cc/play/840/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="Serien+ HD" tvg-name="Serien+ HD" tvg-logo="https://ip-tv.dev/images/epg/853.png?v1743761303" , SERIEN+ HD
+#EXTGRP:Deutsch
+http://gr.seetv.cc/play/853/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="rtl.ch" tvg-name="RTL UHD" tvg-logo="https://ip-tv.dev/images/ico/de/rtl-de.png" , RTL UHD
+#EXTGRP:Deutsch
+http://gr.seetv.cc/play/950/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-name="ProSieben Sat.1 UHD" tvg-logo="https://ip-tv.dev/images/epg/852.png?v1743761237" , ProSieben Sat.1 UHD
+#EXTGRP:Deutsch
+http://gr.seetv.cc/play/852/983F158AABB587A/video.m3u8
