@@ -1,33 +1,33 @@
 #EXTM3U catchup="flussonic"
 
-#EXTINF:0 tvg-id="DE: RTL" tvg-name="RTL HD DE" tvg-logo="https://ip-tv.dev/images/ico/de/rtl-de.png"  tvg-rec="5" timeshift="5", RTL HD DE
+#EXTINF:0 tvg-id="RTL.de" tvg-name="RTL HD DE" tvg-logo="https://ip-tv.dev/images/ico/de/rtl-de.png"  tvg-rec="5" timeshift="5", RTL
 #EXTGRP:Deutsch
 http://gr.seetv.cc/play/801/983F158AABB587A/video.m3u8
 
-#EXTINF:0 tvg-id="DE: SAT.1" tvg-name="Sat.1 HD DE" tvg-logo="https://ip-tv.dev/images/epg/806.png?v1743758238"  tvg-rec="5" timeshift="5", Sat.1 HD DE
+#EXTINF:0 tvg-id="SAT.1.de" tvg-name="Sat.1 HD DE" tvg-logo="https://ip-tv.dev/images/epg/806.png?v1743758238"  tvg-rec="5" timeshift="5", Sat.1
 #EXTGRP:Deutsch
 http://gr.seetv.cc/play/806/983F158AABB587A/video.m3u8
 
-#EXTINF:0 tvg-id="DE: ProSieben" tvg-name="ProSieben HD DE" tvg-logo="https://ip-tv.dev/images/epg/807.png?v1743759465"  tvg-rec="5" timeshift="5", ProSieben HD DE
+#EXTINF:0 tvg-id="ProSieben.de" tvg-name="ProSieben HD DE" tvg-logo="https://ip-tv.dev/images/epg/807.png?v1743759465"  tvg-rec="5" timeshift="5", ProSieben
 #EXTGRP:Deutsch
 http://gr.seetv.cc/play/807/983F158AABB587A/video.m3u8
 
-#EXTINF:0 tvg-id="DE: RTL ZWEI" tvg-name="RTL Zwei HD" tvg-logo="https://ip-tv.dev/images/ico/de/rtl-zwei-de.png"  tvg-rec="5" timeshift="5", RTL Zwei HD
+#EXTINF:0 tvg-id="RTLZWEI.de" tvg-name="RTL Zwei HD" tvg-logo="https://ip-tv.dev/images/ico/de/rtl-zwei-de.png"  tvg-rec="5" timeshift="5", RTL Zwei
 #EXTGRP:Deutsch
 http://gr.seetv.cc/play/1008/983F158AABB587A/video.m3u8
 
-#EXTINF:0 tvg-id="DE: Kabel Eins" tvg-name="Kabel Eins HD" tvg-logo="https://ip-tv.dev/epg/icon/kabel-1.png"  tvg-rec="5" timeshift="5", Kabel Eins HD
+#EXTINF:0 tvg-id="kabel.eins.de" tvg-name="Kabel Eins HD" tvg-logo="https://ip-tv.dev/epg/icon/kabel-1.png"  tvg-rec="5" timeshift="5", Kabel Eins
 #EXTGRP:Deutsch
 http://gr.seetv.cc/play/808/983F158AABB587A/video.m3u8
 
-#EXTINF:0 tvg-id="DE: VOX" tvg-name="VOX HD DE" tvg-logo="https://ip-tv.dev/images/epg/813.png?v1743758768"  tvg-rec="5" timeshift="5", VOX HD DE
+#EXTINF:0 tvg-id="VOX.de" tvg-name="VOX HD DE" tvg-logo="https://ip-tv.dev/images/epg/813.png?v1743758768"  tvg-rec="5" timeshift="5", VOX
 #EXTGRP:Deutsch
 http://gr.seetv.cc/play/813/983F158AABB587A/video.m3u8
 
-#EXTINF:0 tvg-id="DE: N-TV" tvg-name="n-tv HD DE" tvg-logo="https://ip-tv.dev/images/epg/802.png?v1743758182"  tvg-rec="5" timeshift="5", n-tv HD DE
+#EXTINF:0 tvg-id="ntv.de" tvg-name="n-tv HD DE" tvg-logo="https://ip-tv.dev/images/epg/802.png?v1743758182"  tvg-rec="5" timeshift="5", n-tv
 #EXTGRP:Deutsch
 http://gr.seetv.cc/play/802/983F158AABB587A/video.m3u8
 
-#EXTINF:0 tvg-id="DE: Kabel Eins Doku" tvg-name="Kabel Eins Doku HD" tvg-logo="https://ip-tv.dev/images/epg/951.png?v1743759133"  tvg-rec="5" timeshift="5", Kabel Eins Doku HD
+#EXTINF:0 tvg-id="kabel.eins.Doku.de" tvg-name="Kabel Eins Doku HD" tvg-logo="https://ip-tv.dev/images/epg/951.png?v1743759133"  tvg-rec="5" timeshift="5", Kabel Eins Doku
 #EXTGRP:Deutsch
 http://gr.seetv.cc/play/951/983F158AABB587A/video.m3u8
