@@ -68,7 +68,7 @@ http://gr.seetv.cc/play/1816/983F158AABB587A/video.m3u8
 #EXTGRP:Deutsch
 http://gr.seetv.cc/play/821/983F158AABB587A/video.m3u8
 
-#EXTINF:0 tvg-id="Discovery.HD.de" tvg-name="Discovery HD DE" tvg-logo="https://ip-tv.dev/images/epg/5140.png?v1743759050"  tvg-rec="5" timeshift="5", Discovery
+#EXTINF:0 tvg-id="Nat.Geo.HD.de" tvg-name="National Geographic" tvg-logo="https://ip-tv.dev/images/ico/nationalbg.png"  tvg-rec="5" timeshift="5", National Geographic
 #EXTGRP:Deutsch
 http://gr.seetv.cc/play/5140/983F158AABB587A/video.m3u8
 
@@ -88,7 +88,7 @@ http://gr.seetv.cc/play/747/983F158AABB587A/video.m3u8
 #EXTGRP:Deutsch
 http://gr.seetv.cc/play/683/983F158AABB587A/video.m3u8
 
-#EXTINF:0 tvg-id="DE: Romance TV" tvg-name="Romance TV DE" tvg-logo="https://ip-tv.dev/images/epg/5131.png?v1743759550"  tvg-rec="5" timeshift="5", Romance TV
+#EXTINF:0 tvg-id="Romance.TV.de" tvg-name="Romance TV DE" tvg-logo="https://ip-tv.dev/images/epg/5131.png?v1743759550"  tvg-rec="5" timeshift="5", Romance TV
 #EXTGRP:Deutsch
 http://gr.seetv.cc/play/5131/983F158AABB587A/video.m3u8
 
